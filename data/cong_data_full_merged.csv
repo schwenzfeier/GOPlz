@@ -1,0 +1,541 @@
+id,first_name,last_name,type,state,district,party,twitter_handle,state_name,rep_name,district_name,total_loss,nonelderly_subtotal,medicaid_adults,medicaid_children,medicaid_disabled,medicid_expansion,medicaid_elderly,indiv_market
+B000944,Sherrod,Brown,sen,OH,,Democrat,SenSherrodBrown,Ohio,,,469600.0,396300.0,74400.0,140700.0,27600.0,153500.0,32000.0,73100.0
+C000127,Maria,Cantwell,sen,WA,,Democrat,SenatorCantwell,Washington,,,298700.0,264300.0,16700.0,97400.0,15600.0,134600.0,18700.0,34300.0
+C000141,Benjamin,Cardin,sen,MD,,Democrat,SenatorCardin,Maryland,,,227400.0,164800.0,37900.0,60800.0,10000.0,56300.0,12800.0,62600.0
+C000174,Thomas,Carper,sen,DE,,Democrat,SenatorCarper,Delaware,,,59500.0,37500.0,9800.0,11100.0,1500.0,15100.0,1800.0,22000.0
+C001070,Robert,Casey,sen,PA,,Democrat,SenBobCasey,Pennsylvania,,,731000.0,409000.0,41300.0,147100.0,61500.0,159100.0,56400.0,322000.0
+C001071,Bob,Corker,sen,TN,,Republican,SenBobCorker,Tennessee,,,634600.0,395000.0,35400.0,97500.0,17800.0,244200.0,20000.0,239500.0
+F000062,Dianne,Feinstein,sen,CA,,Democrat,SenFeinstein,California,,,2483000.0,1714800.0,271000.0,536200.0,107300.0,800900.0,187600.0,767900.0
+H000338,Orrin,Hatch,sen,UT,,Republican,SenOrrinHatch,Utah,,,186000.0,119100.0,9000.0,26400.0,3900.0,79800.0,3900.0,66900.0
+K000367,Amy,Klobuchar,sen,MN,,Democrat,,Minnesota,,,217600.0,137500.0,37100.0,48200.0,9800.0,42400.0,15200.0,79800.0
+M001170,Claire,McCaskill,sen,MO,,Democrat,McCaskillOffice,Missouri,,,479600.0,307000.0,14200.0,75400.0,17000.0,200100.0,18400.0,172600.0
+M000639,Robert,Menéndez,sen,NJ,,Democrat,SenatorMenendez,New Jersey,,,418300.0,267800.0,22700.0,102900.0,20600.0,121500.0,26000.0,150200.0
+N000032,Bill,Nelson,sen,FL,,Democrat,SenBillNelson,Florida,,,2086500.0,1269000.0,74200.0,267000.0,42900.0,884900.0,60200.0,817500.0
+S000033,Bernard,Sanders,sen,VT,,Independent,SenSanders,Vermont,,,51200.0,32900.0,8900.0,7800.0,1900.0,14300.0,3100.0,18400.0
+S000770,Debbie,Stabenow,sen,MI,,Democrat,SenStabenow,Michigan,,,489400.0,378700.0,53300.0,149200.0,32400.0,143400.0,32400.0,110900.0
+T000464,Jon,Tester,sen,MT,,Democrat,SenatorTester,Montana,,,81100.0,28500.0,2600.0,13000.0,2300.0,10600.0,1900.0,52700.0
+W000802,Sheldon,Whitehouse,sen,RI,,Democrat,SenWhitehouse,Rhode Island,,,45800.0,35300.0,6200.0,11600.0,3900.0,13700.0,4000.0,10600.0
+B001261,John,Barrasso,sen,WY,,Republican,SenJohnBarrasso,Wyoming,,,49000.0,23500.0,900.0,5800.0,700.0,16000.0,900.0,25600.0
+W000437,Roger,Wicker,sen,MS,,Republican,SenatorWicker,Mississippi,,,278000.0,235400.0,10000.0,59700.0,13800.0,151800.0,12300.0,42500.0
+A000360,Lamar,Alexander,sen,TN,,Republican,SenAlexander,Tennessee,,,634600.0,395000.0,35400.0,97500.0,17800.0,244200.0,20000.0,239500.0
+C000567,Thad,Cochran,sen,MS,,Republican,SenThadCochran,Mississippi,,,278000.0,235400.0,10000.0,59700.0,13800.0,151800.0,12300.0,42500.0
+C001035,Susan,Collins,sen,ME,,Republican,SenatorCollins,Maine,,,117900.0,62400.0,12400.0,16900.0,5100.0,28100.0,6400.0,55400.0
+C001056,John,Cornyn,sen,TX,,Republican,JohnCornyn,Texas,,,2430600.0,1890400.0,43400.0,446700.0,60800.0,1339200.0,65700.0,540200.0
+D000563,Richard,Durbin,sen,IL,,Democrat,SenatorDurbin,Illinois,,,654800.0,435500.0,84200.0,178500.0,22600.0,150400.0,41100.0,219500.0
+E000285,Michael,Enzi,sen,WY,,Republican,SenatorEnzi,Wyoming,,,49000.0,23500.0,900.0,5800.0,700.0,16000.0,900.0,25600.0
+G000359,Lindsey,Graham,sen,SC,,Republican,GrahamBlog,South Carolina,,,458000.0,305300.0,16100.0,75000.0,14100.0,200100.0,16400.0,152800.0
+I000024,James,Inhofe,sen,OK,,Republican,InhofePress,Oklahoma,,,395100.0,238100.0,14400.0,57900.0,9600.0,156400.0,12000.0,157000.0
+M000355,Mitch,McConnell,sen,KY,,Republican,McConnellPress,Kentucky,,,231400.0,195300.0,14800.0,61800.0,18200.0,100300.0,15900.0,36200.0
+M001176,Jeff,Merkley,sen,OR,,Democrat,SenJeffMerkley,Oregon,,,283300.0,203800.0,23900.0,46800.0,8400.0,124700.0,9500.0,79600.0
+R000122,John,Reed,sen,RI,,Democrat,SenJackReed,Rhode Island,,,45800.0,35300.0,6200.0,11600.0,3900.0,13700.0,4000.0,10600.0
+R000584,James,Risch,sen,ID,,Republican,SenatorRisch,Idaho,,,144700.0,88200.0,5000.0,21100.0,3600.0,58400.0,4100.0,56600.0
+R000307,Pat,Roberts,sen,KS,,Republican,SenPatRoberts,Kansas,,,198200.0,135900.0,6200.0,34500.0,6100.0,89000.0,6100.0,62400.0
+S001181,Jeanne,Shaheen,sen,NH,,Democrat,SenatorShaheen,New Hampshire,,,45500.0,29900.0,2400.0,13200.0,2300.0,12000.0,2400.0,15600.0
+U000039,Tom,Udall,sen,NM,,Democrat,SenatorTomUdall,New Mexico,,,133400.0,117300.0,13100.0,44300.0,4900.0,55100.0,6000.0,16000.0
+W000805,Mark,Warner,sen,VA,,Democrat,MarkWarner,Virginia,,,521800.0,329400.0,17500.0,75400.0,13500.0,222900.0,17000.0,192300.0
+G000555,Kirsten,Gillibrand,sen,NY,,Democrat,SenGillibrand,New York,,,1139000.0,1001700.0,244600.0,231000.0,51500.0,474500.0,103300.0,137500.0
+F000457,Alan,Franken,sen,MN,,Democrat,SenFranken,Minnesota,,,217600.0,137500.0,37100.0,48200.0,9800.0,42400.0,15200.0,79800.0
+C001088,Chris,Coons,sen,DE,,Democrat,SenCoonsOffice,Delaware,,,59500.0,37500.0,9800.0,11100.0,1500.0,15100.0,1800.0,22000.0
+M001183,Joe,Manchin,sen,WV,,Democrat,Sen_JoeManchin,West Virginia,,,118100.0,83700.0,6400.0,26900.0,9500.0,40800.0,7900.0,34500.0
+A000055,Robert,Aderholt,rep,AL,4.0,Republican,Robert_Aderholt,Alabama,Robert B. Aderholt (AL-4),(AL-4),70900.0,46900.0,1000.0,12100.0,2600.0,31200.0,2500.0,24000.0
+A000367,Justin,Amash,rep,MI,3.0,Republican,,Michigan,Justin Amash (MI-3),(MI-3),32700.0,25500.0,3700.0,10300.0,2200.0,9200.0,1800.0,7300.0
+B001230,Tammy,Baldwin,sen,WI,,Democrat,SenatorBaldwin,Wisconsin,,,394100.0,241300.0,41900.0,62800.0,15400.0,121400.0,23500.0,152500.0
+B001269,Lou,Barletta,rep,PA,11.0,Republican,RepLouBarletta,Pennsylvania,Lou Barletta (PA-11),(PA-11),36800.0,21300.0,2100.0,7400.0,3100.0,8800.0,3200.0,15500.0
+B000213,Joe,Barton,rep,TX,6.0,Republican,RepJoeBarton,Texas,Joe Barton (TX-6),(TX-6),59900.0,44600.0,1000.0,10400.0,1400.0,31800.0,1200.0,15300.0
+B001270,Karen,Bass,rep,CA,37.0,Democrat,RepKarenBass,California,Karen Bass (CA-37),(CA-37),56200.0,40500.0,5500.0,11000.0,2200.0,21800.0,4500.0,15700.0
+B001267,Michael,Bennet,sen,CO,,Democrat,SenBennetCo,Colorado,,,240100.0,188500.0,21500.0,61300.0,9300.0,96200.0,11000.0,51600.0
+B001257,Gus,Bilirakis,rep,FL,12.0,Republican,RepGusBilirakis,Florida,Gus M. Bilirakis (FL-12),(FL-12),65800.0,42700.0,2600.0,9400.0,1500.0,29200.0,2100.0,23200.0
+B001250,Rob,Bishop,rep,UT,1.0,Republican,RepRobBishop,Utah,Rob Bishop (UT-1),(UT-1),39400.0,24700.0,2100.0,6200.0,900.0,15500.0,800.0,14700.0
+B000490,Sanford,Bishop,rep,GA,2.0,Democrat,SanfordBishop,Georgia,"Sanford D. Bishop, Jr. (GA-2)",(GA-2),76100.0,63800.0,2700.0,14500.0,2500.0,44100.0,2800.0,12300.0
+B001273,Diane,Black,rep,TN,6.0,Republican,RepDianeBlack,Tennessee,Diane Black (TN-6),(TN-6),69000.0,43400.0,4100.0,11100.0,2000.0,26200.0,2500.0,25600.0
+B001243,Marsha,Blackburn,rep,TN,7.0,Republican,MarshaBlackburn,Tennessee,Marsha Blackburn (TN-7),(TN-7),62000.0,36500.0,3300.0,9100.0,1700.0,22400.0,2100.0,25500.0
+B000574,Earl,Blumenauer,rep,OR,3.0,Democrat,BlumenauerMedia,Oregon,Earl Blumenauer (OR-3),(OR-3),62400.0,43000.0,4900.0,9500.0,1700.0,26900.0,1900.0,19400.0
+B001277,Richard,Blumenthal,sen,CT,,Democrat,SenBlumenthal,Connecticut,,,206800.0,120800.0,32400.0,36900.0,4400.0,47000.0,9300.0,86000.0
+B000575,Roy,Blunt,sen,MO,,Republican,RoyBlunt,Missouri,,,479600.0,307000.0,14200.0,75400.0,17000.0,200100.0,18400.0,172600.0
+B001236,John,Boozman,sen,AR,,Republican,JohnBoozman,Arkansas,,,172400.0,144600.0,4500.0,57900.0,13500.0,68900.0,11000.0,27900.0
+B001245,Madeleine,Bordallo,rep,GU,0.0,Democrat,,,,,,,,,,,,
+B000755,Kevin,Brady,rep,TX,8.0,Republican,RepKevinBrady,Texas,Kevin Brady (TX-8),(TX-8),54000.0,40800.0,900.0,8900.0,1200.0,29800.0,1100.0,13200.0
+B001227,Robert,Brady,rep,PA,1.0,Democrat,RepBrady,Pennsylvania,Robert A. Brady (PA-1),(PA-1),66300.0,45600.0,4500.0,16100.0,6800.0,18200.0,3500.0,20700.0
+B001274,Mo,Brooks,rep,AL,5.0,Republican,RepMoBrooks,Alabama,Mo Brooks (AL-5),(AL-5),65700.0,39600.0,800.0,9700.0,2000.0,27100.0,1800.0,26200.0
+B001260,Vern,Buchanan,rep,FL,16.0,Republican,VernBuchanan,Florida,Vern Buchanan (FL-16),(FL-16),63700.0,41100.0,2400.0,8600.0,1400.0,28700.0,1900.0,22600.0
+B001275,Larry,Bucshon,rep,IN,8.0,Republican,RepLarryBucshon,Indiana,Larry Bucshon (IN-8),(IN-8),27600.0,20900.0,2400.0,8200.0,1500.0,8800.0,2200.0,6700.0
+B001248,Michael,Burgess,rep,TX,26.0,Republican,MichaelCBurgess,Texas,Michael C. Burgess (TX-26),(TX-26),44800.0,28000.0,700.0,6700.0,900.0,19700.0,900.0,16800.0
+B001135,Richard,Burr,sen,NC,,Republican,SenatorBurr,North Carolina,,,1348300.0,638900.0,29900.0,148900.0,29900.0,429700.0,32500.0,709500.0
+B001251,George,Butterfield,rep,NC,1.0,Democrat,GKButterfield,North Carolina,G. K. Butterfield (NC-1),(NC-1),104500.0,57900.0,2700.0,13600.0,2700.0,38800.0,3500.0,46600.0
+C000059,Ken,Calvert,rep,CA,42.0,Republican,KenCalvert,California,Ken Calvert (CA-42),(CA-42),39300.0,25700.0,3900.0,7700.0,1500.0,12500.0,2800.0,13700.0
+C001047,Shelley,Capito,sen,WV,,Republican,SenCapito,West Virginia,,,118100.0,83700.0,6400.0,26900.0,9500.0,40800.0,7900.0,34500.0
+C001037,Michael,Capuano,rep,MA,7.0,Democrat,RepMikeCapuano,Massachusetts,Michael E. Capuano (MA-7),(MA-7),49000.0,46200.0,10700.0,10900.0,6800.0,17800.0,5300.0,2800.0
+C001072,André,Carson,rep,IN,7.0,Democrat,RepAndreCarson,Indiana,André Carson (IN-7),(IN-7),46900.0,39600.0,4900.0,16600.0,3000.0,15100.0,2000.0,7300.0
+C001051,John,Carter,rep,TX,31.0,Republican,JudgeCarter,Texas,John R. Carter (TX-31),(TX-31),43400.0,29700.0,800.0,8300.0,1100.0,19600.0,1400.0,13700.0
+C001075,Bill,Cassidy,sen,LA,,Republican,,Louisiana,,,343000.0,188800.0,32900.0,69700.0,17100.0,69000.0,23600.0,154200.0
+C001066,Kathy,Castor,rep,FL,14.0,Democrat,USRepKCastor,Florida,Kathy Castor (FL-14),(FL-14),71200.0,48900.0,3100.0,11100.0,1800.0,33000.0,1700.0,22300.0
+C000266,Steve,Chabot,rep,OH,1.0,Republican,RepSteveChabot,Ohio,Steve Chabot (OH-1),(OH-1),30600.0,25500.0,4600.0,8700.0,1700.0,10500.0,1700.0,5100.0
+C001076,Jason,Chaffetz,rep,UT,3.0,Republican,JasonInTheHouse,Utah,Jason Chaffetz (UT-3),(UT-3),45600.0,27400.0,2100.0,6100.0,900.0,18200.0,900.0,18200.0
+C001080,Judy,Chu,rep,CA,27.0,Democrat,RepJudyChu,California,Judy Chu (CA-27),(CA-27),39900.0,24300.0,3400.0,6700.0,1300.0,12800.0,6000.0,15600.0
+C001084,David,Cicilline,rep,RI,1.0,Democrat,RepCicilline,Rhode Island,David N. Cicilline (RI-1),(RI-1),25700.0,20400.0,3400.0,6300.0,2100.0,8700.0,2200.0,5300.0
+C001067,Yvette,Clarke,rep,NY,9.0,Democrat,RepYvetteClarke,New York,Yvette D. Clarke (NY-9),(NY-9),59600.0,52300.0,12400.0,11700.0,2600.0,25600.0,5800.0,7200.0
+C001049,Wm.,Clay,rep,MO,1.0,Democrat,,Missouri,Wm. Lacy Clay (MO-1),(MO-1),74900.0,49100.0,2500.0,13300.0,3000.0,30200.0,2400.0,25800.0
+C001061,Emanuel,Cleaver,rep,MO,5.0,Democrat,RepCleaver,Missouri,Emanuel Cleaver (MO-5),(MO-5),71100.0,49000.0,2000.0,10600.0,2400.0,34000.0,2300.0,22100.0
+C000537,James,Clyburn,rep,SC,6.0,Democrat,Clyburn,South Carolina,James E. Clyburn (SC-6),(SC-6),78900.0,57500.0,3100.0,14400.0,2700.0,37300.0,3300.0,21400.0
+C001077,Mike,Coffman,rep,CO,6.0,Republican,RepMikeCoffman,Colorado,Mike Coffman (CO-6),(CO-6),33400.0,26700.0,2800.0,7900.0,1200.0,14800.0,1200.0,6700.0
+C001068,Steve,Cohen,rep,TN,9.0,Democrat,RepCohen,Tennessee,Steve Cohen (TN-9),(TN-9),92900.0,65900.0,5800.0,15900.0,2900.0,41300.0,2200.0,27000.0
+C001053,Tom,Cole,rep,OK,4.0,Republican,TomColeOK04,Oklahoma,Tom Cole (OK-4),(OK-4),71900.0,41400.0,2600.0,10400.0,1700.0,26700.0,2000.0,30500.0
+C001062,K.,Conaway,rep,TX,11.0,Republican,ConawayTX11,Texas,K. Michael Conaway (TX-11),(TX-11),53000.0,42200.0,1100.0,11200.0,1500.0,28400.0,2000.0,10800.0
+C001078,Gerald,Connolly,rep,VA,11.0,Democrat,GerryConnolly,Virginia,Gerald E. Connolly (VA-11),(VA-11),41300.0,18500.0,1000.0,4400.0,800.0,12200.0,1100.0,22800.0
+C000714,John,Conyers,rep,MI,13.0,Democrat,RepJohnConyers,Michigan,"John Conyers, Jr. (MI-13)",(MI-13),54400.0,48600.0,6700.0,18800.0,4100.0,19000.0,3700.0,5800.0
+C000754,Jim,Cooper,rep,TN,5.0,Democrat,RepJimCooper,Tennessee,Jim Cooper (TN-5),(TN-5),79600.0,44800.0,3800.0,10500.0,1900.0,28600.0,1700.0,34700.0
+C001059,Jim,Costa,rep,CA,16.0,Democrat,RepJimCosta,California,Jim Costa (CA-16),(CA-16),68900.0,57100.0,10600.0,21000.0,4200.0,21300.0,3800.0,11800.0
+C001069,Joe,Courtney,rep,CT,2.0,Democrat,RepJoeCourtney,Connecticut,Joe Courtney (CT-2),(CT-2),37300.0,20100.0,5900.0,6800.0,800.0,6600.0,1800.0,17200.0
+C000880,Michael,Crapo,sen,ID,,Republican,MikeCrapo,Idaho,,,144700.0,88200.0,5000.0,21100.0,3600.0,58400.0,4100.0,56600.0
+C001087,Eric,Crawford,rep,AR,1.0,Republican,RepRickCrawford,Arkansas,"Eric A. ""Rick"" Crawford (AR-1)",(AR-1),47300.0,40700.0,1300.0,16700.0,3900.0,18800.0,3600.0,6600.0
+C001038,Joseph,Crowley,rep,NY,14.0,Democrat,RepJoeCrowley,New York,Joseph Crowley (NY-14),(NY-14),73500.0,66000.0,11800.0,11200.0,2500.0,40400.0,4800.0,7500.0
+C001063,Henry,Cuellar,rep,TX,28.0,Democrat,RepCuellar,Texas,Henry Cuellar (TX-28),(TX-28),96100.0,80100.0,1700.0,17400.0,2400.0,58600.0,3100.0,16000.0
+C001048,John,Culberson,rep,TX,7.0,Republican,CongCulberson,Texas,John Abney Culberson (TX-7),(TX-7),58800.0,41900.0,900.0,9000.0,1200.0,30800.0,1100.0,16900.0
+C000984,Elijah,Cummings,rep,MD,7.0,Democrat,RepCummings,Maryland,Elijah E. Cummings (MD-7),(MD-7),36300.0,29200.0,7300.0,11700.0,1900.0,8200.0,2200.0,7200.0
+D000096,Danny,Davis,rep,IL,7.0,Democrat,RepDannyDavis,Illinois,Danny K. Davis (IL-7),(IL-7),49700.0,36900.0,6700.0,14200.0,1800.0,14200.0,3600.0,12800.0
+D000598,Susan,Davis,rep,CA,53.0,Democrat,RepSusanDavis,California,Susan A. Davis (CA-53),(CA-53),41900.0,25600.0,3700.0,7400.0,1500.0,13000.0,3000.0,16300.0
+D000191,Peter,DeFazio,rep,OR,4.0,Democrat,RepPeterDeFazio,Oregon,Peter A. DeFazio (OR-4),(OR-4),55800.0,42100.0,5100.0,10100.0,1800.0,25100.0,2400.0,13800.0
+D000197,Diana,DeGette,rep,CO,1.0,Democrat,RepDianaDeGette,Colorado,Diana DeGette (CO-1),(CO-1),42900.0,34900.0,4200.0,12100.0,1800.0,16800.0,1700.0,8000.0
+D000216,Rosa,DeLauro,rep,CT,3.0,Democrat,RosaDeLauro,Connecticut,Rosa L. DeLauro (CT-3),(CT-3),40900.0,23700.0,6800.0,7700.0,900.0,8200.0,2000.0,17200.0
+D000612,Jeff,Denham,rep,CA,10.0,Republican,RepJeffDenham,California,Jeff Denham (CA-10),(CA-10),48500.0,35700.0,6200.0,12200.0,2400.0,15000.0,3200.0,12800.0
+D000604,Charles,Dent,rep,PA,15.0,Republican,RepCharlieDent,Pennsylvania,Charles W. Dent (PA-15),(PA-15),39000.0,21400.0,2000.0,7200.0,3000.0,9100.0,2500.0,17600.0
+D000616,Scott,DesJarlais,rep,TN,4.0,Republican,DesJarlaisTN04,Tennessee,Scott DesJarlais (TN-4),(TN-4),65700.0,42000.0,3600.0,10000.0,1800.0,26500.0,2200.0,23700.0
+D000610,Theodore,Deutch,rep,FL,22.0,Democrat,RepTedDeutch,Florida,Theodore E. Deutch (FL-22),(FL-22),87300.0,43600.0,2600.0,9200.0,1500.0,30400.0,2000.0,43700.0
+D000600,Mario,Diaz-Balart,rep,FL,25.0,Republican,MarioDB,Florida,Mario Diaz-Balart (FL-25),(FL-25),98600.0,54200.0,3000.0,10800.0,1700.0,38700.0,3800.0,44400.0
+D000399,Lloyd,Doggett,rep,TX,35.0,Democrat,RepLloydDoggett,Texas,Lloyd Doggett (TX-35),(TX-35),89600.0,72400.0,1800.0,18100.0,2500.0,50000.0,2200.0,17200.0
+D000607,Joe,Donnelly,sen,IN,,Democrat,SenDonnelly,Indiana,,,270400.0,210200.0,24800.0,83700.0,14900.0,86500.0,16700.0,60500.0
+D000482,Michael,Doyle,rep,PA,14.0,Democrat,USRepMikeDoyle,Pennsylvania,Michael F. Doyle (PA-14),(PA-14),43300.0,26600.0,2700.0,9800.0,4100.0,10000.0,4300.0,16700.0
+D000614,Sean,Duffy,rep,WI,7.0,Republican,RepSeanDuffy,Wisconsin,Sean P. Duffy (WI-7),(WI-7),55500.0,31000.0,5800.0,8600.0,2100.0,14500.0,3500.0,24500.0
+D000615,Jeff,Duncan,rep,SC,3.0,Republican,RepJeffDuncan,South Carolina,Jeff Duncan (SC-3),(SC-3),60400.0,41500.0,2200.0,10400.0,2000.0,26900.0,2200.0,18900.0
+D000533,John,Duncan,rep,TN,2.0,Republican,RepJohnDuncanJr,Tennessee,"John J. Duncan, Jr. (TN-2)",(TN-2),63800.0,36600.0,3300.0,9000.0,1600.0,22700.0,2000.0,27200.0
+E000288,Keith,Ellison,rep,MN,5.0,Democrat,KeithEllison,Minnesota,Keith Ellison (MN-5),(MN-5),35700.0,26000.0,6500.0,8400.0,1700.0,9500.0,2100.0,9700.0
+E000179,Eliot,Engel,rep,NY,16.0,Democrat,RepEliotEngel,New York,Eliot L. Engel (NY-16),(NY-16),37500.0,32600.0,8100.0,7600.0,1700.0,15100.0,3800.0,5000.0
+E000215,Anna,Eshoo,rep,CA,18.0,Democrat,RepAnnaEshoo,California,Anna G. Eshoo (CA-18),(CA-18),25900.0,12700.0,1900.0,3800.0,800.0,6200.0,2700.0,13100.0
+F000460,Blake,Farenthold,rep,TX,27.0,Republican,Farenthold,Texas,Blake Farenthold (TX-27),(TX-27),59000.0,47800.0,1200.0,12300.0,1700.0,32600.0,2300.0,11200.0
+F000444,Jeff,Flake,sen,AZ,,Republican,JeffFlake,Arizona,,,461000.0,246200.0,51600.0,87800.0,12600.0,94300.0,18100.0,215100.0
+F000459,Charles,Fleischmann,rep,TN,3.0,Republican,RepChuck,Tennessee,"Charles J. ""Chuck"" Fleischmann (TN-3)",(TN-3),68500.0,43400.0,4300.0,11900.0,2200.0,25000.0,2600.0,25100.0
+F000461,Bill,Flores,rep,TX,17.0,Republican,RepBillFlores,Texas,Bill Flores (TX-17),(TX-17),54900.0,43400.0,1000.0,10400.0,1400.0,30500.0,1500.0,11500.0
+F000449,Jeff,Fortenberry,rep,NE,1.0,Republican,JeffFortenberry,Nebraska,Jeff Fortenberry (NE-1),(NE-1),54900.0,26800.0,1600.0,6500.0,1200.0,17600.0,1600.0,28100.0
+F000450,Virginia,Foxx,rep,NC,5.0,Republican,VirginiaFoxx,North Carolina,Virginia Foxx (NC-5),(NC-5),105500.0,53000.0,2300.0,11400.0,2300.0,37000.0,2700.0,52400.0
+F000448,Trent,Franks,rep,AZ,8.0,Republican,RepTrentFranks,Arizona,Trent Franks (AZ-8),(AZ-8),41700.0,16900.0,3700.0,6400.0,900.0,5800.0,2000.0,24900.0
+F000372,Rodney,Frelinghuysen,rep,NJ,11.0,Republican,USRepRodney,New Jersey,Rodney P. Frelinghuysen (NJ-11),(NJ-11),20500.0,8500.0,700.0,3000.0,600.0,4200.0,1900.0,12100.0
+F000455,Marcia,Fudge,rep,OH,11.0,Democrat,RepMarciaFudge,Ohio,Marcia L. Fudge (OH-11),(OH-11),42400.0,37700.0,7500.0,14100.0,2800.0,13400.0,3400.0,4600.0
+G000559,John,Garamendi,rep,CA,3.0,Democrat,RepGaramendi,California,John Garamendi (CA-3),(CA-3),40900.0,29400.0,5300.0,10400.0,2100.0,11700.0,2600.0,11400.0
+G000562,Cory,Gardner,sen,CO,,Republican,SenCoryGardner,Colorado,,,240100.0,188500.0,21500.0,61300.0,9300.0,96200.0,11000.0,51600.0
+G000563,Bob,Gibbs,rep,OH,7.0,Republican,RepBobGibbs,Ohio,Bob Gibbs (OH-7),(OH-7),26000.0,21400.0,4000.0,7500.0,1500.0,8400.0,1900.0,4500.0
+G000552,Louie,Gohmert,rep,TX,1.0,Republican,RepLouieGohmert,Texas,Louie Gohmert (TX-1),(TX-1),60800.0,49400.0,1200.0,12300.0,1700.0,34300.0,1600.0,11400.0
+G000289,Bob,Goodlatte,rep,VA,6.0,Republican,RepGoodlatte,Virginia,Bob Goodlatte (VA-6),(VA-6),52500.0,36800.0,1800.0,8000.0,1400.0,25500.0,1600.0,15700.0
+G000565,Paul,Gosar,rep,AZ,4.0,Republican,RepGosar,Arizona,Paul A. Gosar (AZ-4),(AZ-4),48600.0,23900.0,5200.0,8800.0,1300.0,8700.0,2600.0,24800.0
+G000566,Trey,Gowdy,rep,SC,4.0,Republican,TGowdySC,South Carolina,Trey Gowdy (SC-4),(SC-4),66900.0,43700.0,2100.0,9900.0,1900.0,29800.0,1800.0,23200.0
+G000377,Kay,Granger,rep,TX,12.0,Republican,RepKayGranger,Texas,Kay Granger (TX-12),(TX-12),53900.0,38300.0,900.0,9700.0,1300.0,26200.0,1400.0,15700.0
+G000386,Charles,Grassley,sen,IA,,Republican,ChuckGrassley,Iowa,,,127900.0,93700.0,17900.0,35000.0,7200.0,33700.0,7900.0,34300.0
+G000546,Sam,Graves,rep,MO,6.0,Republican,RepSamGraves,Missouri,Sam Graves (MO-6),(MO-6),50800.0,31400.0,1500.0,8000.0,1800.0,20000.0,2100.0,19400.0
+G000560,Tom,Graves,rep,GA,14.0,Republican,RepTomGraves,Georgia,Tom Graves (GA-14),(GA-14),68900.0,54900.0,2200.0,11800.0,2000.0,38900.0,2200.0,13900.0
+G000553,Al,Green,rep,TX,9.0,Democrat,RepAlGreen,Texas,Al Green (TX-9),(TX-9),89900.0,71600.0,1800.0,18600.0,2500.0,48600.0,2000.0,18300.0
+G000410,Gene,Green,rep,TX,29.0,Democrat,RepGeneGreen,Texas,Gene Green (TX-29),(TX-29),112200.0,95300.0,2100.0,21900.0,3000.0,68300.0,2000.0,16900.0
+G000568,H.,Griffith,rep,VA,9.0,Republican,RepMGriffith,Virginia,H. Morgan Griffith (VA-9),(VA-9),59300.0,45800.0,2400.0,10200.0,1800.0,31400.0,2400.0,13500.0
+G000551,Raúl,Grijalva,rep,AZ,3.0,Democrat,RepraulGrijalva,Arizona,Raúl M. Grijalva (AZ-3),(AZ-3),59200.0,35500.0,7800.0,13400.0,1900.0,12400.0,2300.0,23700.0
+G000558,Brett,Guthrie,rep,KY,2.0,Republican,RepGuthrie,Kentucky,Brett Guthrie (KY-2),(KY-2),34700.0,28600.0,2200.0,9100.0,2700.0,14500.0,2500.0,6100.0
+G000535,Luis,Gutiérrez,rep,IL,4.0,Democrat,RepGutierrez,Illinois,Luis V. Gutiérrez (IL-4),(IL-4),59000.0,46300.0,7800.0,16500.0,2100.0,19900.0,2100.0,12800.0
+H001045,Gregg,Harper,rep,MS,3.0,Republican,GreggHarper,Mississippi,Gregg Harper (MS-3),(MS-3),65500.0,54600.0,2300.0,13500.0,3100.0,35700.0,3000.0,10900.0
+H001052,Andy,Harris,rep,MD,1.0,Republican,RepAndyHarrisMD,Maryland,Andy Harris (MD-1),(MD-1),26400.0,19100.0,4600.0,7300.0,1200.0,6000.0,1500.0,7300.0
+H001053,Vicky,Hartzler,rep,MO,4.0,Republican,RepHartzler,Missouri,Vicky Hartzler (MO-4),(MO-4),61300.0,41300.0,1900.0,10000.0,2300.0,27100.0,2500.0,20000.0
+H000324,Alcee,Hastings,rep,FL,20.0,Democrat,RepHastingsFL,Florida,Alcee L. Hastings (FL-20),(FL-20),85600.0,43200.0,2500.0,9000.0,1400.0,30200.0,2000.0,42400.0
+H001046,Martin,Heinrich,sen,NM,,Democrat,MartinHeinrich,New Mexico,,,133400.0,117300.0,13100.0,44300.0,4900.0,55100.0,6000.0,16000.0
+H001036,Jeb,Hensarling,rep,TX,5.0,Republican,RepHensarling,Texas,Jeb Hensarling (TX-5),(TX-5),70000.0,56300.0,1400.0,14000.0,1900.0,38900.0,1600.0,13800.0
+H001056,Jaime,Herrera Beutler,rep,WA,3.0,Republican,HerreraBeutler,Washington,Jaime Herrera Beutler (WA-3),(WA-3),31600.0,28100.0,1900.0,10900.0,1800.0,13500.0,1800.0,3600.0
+H001038,Brian,Higgins,rep,NY,26.0,Democrat,RepBrianHiggins,New York,Brian Higgins (NY-26),(NY-26),36500.0,33600.0,10200.0,9700.0,2200.0,11500.0,2800.0,2900.0
+H001047,James,Himes,rep,CT,4.0,Democrat,JAHimes,Connecticut,James A. Himes (CT-4),(CT-4),42900.0,25700.0,5700.0,6500.0,800.0,12700.0,1400.0,17200.0
+H001042,Mazie,Hirono,sen,HI,,Democrat,MazieHirono,Hawaii,,,58200.0,50500.0,10100.0,13100.0,2900.0,24400.0,4900.0,7700.0
+H001061,John,Hoeven,sen,ND,,Republican,SenJohnHoeven,North Dakota,,,25100.0,12600.0,1600.0,5600.0,900.0,4400.0,1400.0,12500.0
+H000874,Steny,Hoyer,rep,MD,5.0,Democrat,WhipHoyer,Maryland,Steny H. Hoyer (MD-5),(MD-5),22600.0,16300.0,3600.0,5800.0,900.0,6000.0,1100.0,6400.0
+H001058,Bill,Huizenga,rep,MI,2.0,Republican,RepHuizenga,Michigan,Bill Huizenga (MI-2),(MI-2),33900.0,26100.0,3700.0,10200.0,2200.0,10000.0,1900.0,7800.0
+H001059,Randy,Hultgren,rep,IL,14.0,Republican,RepHultgren,Illinois,Randy Hultgren (IL-14),(IL-14),27500.0,13800.0,3000.0,6300.0,800.0,3800.0,1000.0,13700.0
+H001048,Duncan,Hunter,rep,CA,50.0,Republican,Rep_Hunter,California,Duncan Hunter (CA-50),(CA-50),43500.0,27400.0,3900.0,7800.0,1600.0,14200.0,2200.0,16000.0
+I000055,John,Isakson,sen,GA,,Republican,SenatorIsakson,Georgia,,,963200.0,701600.0,27300.0,149200.0,25500.0,499500.0,24300.0,261400.0
+I000056,Darrell,Issa,rep,CA,49.0,Republican,DarrellIssa,California,Darrell E. Issa (CA-49),(CA-49),33600.0,17300.0,2200.0,4400.0,900.0,9800.0,1400.0,16300.0
+J000032,Sheila,Jackson Lee,rep,TX,18.0,Democrat,JacksonLeeTX18,Texas,Sheila Jackson Lee (TX-18),(TX-18),92100.0,75200.0,1900.0,19900.0,2700.0,50700.0,2100.0,16900.0
+J000290,Lynn,Jenkins,rep,KS,2.0,Republican,RepLynnJenkins,Kansas,Lynn Jenkins (KS-2),(KS-2),50300.0,35800.0,1600.0,8900.0,1600.0,23700.0,1600.0,14500.0
+J000292,Bill,Johnson,rep,OH,6.0,Republican,RepBillJohnson,Ohio,Bill Johnson (OH-6),(OH-6),31200.0,27000.0,5100.0,9600.0,1900.0,10400.0,2300.0,4200.0
+J000126,Eddie,Johnson,rep,TX,30.0,Democrat,RepEBJ,Texas,Eddie Bernice Johnson (TX-30),(TX-30),88500.0,72400.0,1800.0,18900.0,2600.0,49000.0,2100.0,16200.0
+J000288,Henry,Johnson,rep,GA,4.0,Democrat,RepHankJohnson,Georgia,"Henry C. ""Hank"" Johnson, Jr. (GA-4)",(GA-4),78900.0,53900.0,2200.0,11900.0,2000.0,37900.0,1500.0,25000.0
+J000293,Ron,Johnson,sen,WI,,Republican,SenRonJohnson,Wisconsin,,,394100.0,241300.0,41900.0,62800.0,15400.0,121400.0,23500.0,152500.0
+J000174,Sam,Johnson,rep,TX,3.0,Republican,SamsPressShop,Texas,Sam Johnson (TX-3),(TX-3),41600.0,23300.0,400.0,4300.0,600.0,18000.0,900.0,18300.0
+J000255,Walter,Jones,rep,NC,3.0,Republican,RepWalterJones,North Carolina,Walter B. Jones (NC-3),(NC-3),95000.0,47700.0,2200.0,10900.0,2200.0,32400.0,3000.0,47400.0
+J000289,Jim,Jordan,rep,OH,4.0,Republican,Jim_Jordan,Ohio,Jim Jordan (OH-4),(OH-4),27100.0,23400.0,4500.0,8500.0,1700.0,8800.0,1900.0,3700.0
+K000009,Marcy,Kaptur,rep,OH,9.0,Democrat,RepMarcyKaptur,Ohio,Marcy Kaptur (OH-9),(OH-9),38400.0,34100.0,6400.0,12100.0,2400.0,13200.0,2200.0,4400.0
+K000375,William,Keating,rep,MA,9.0,Democrat,USRepKeating,Massachusetts,William R. Keating (MA-9),(MA-9),30000.0,27100.0,6800.0,7000.0,4400.0,9000.0,3700.0,2800.0
+K000376,Mike,Kelly,rep,PA,3.0,Republican,MikeKellyPA,Pennsylvania,Mike Kelly (PA-3),(PA-3),37000.0,24200.0,2500.0,9100.0,3800.0,8700.0,3300.0,12900.0
+K000188,Ron,Kind,rep,WI,3.0,Democrat,RepRonKind,Wisconsin,Ron Kind (WI-3),(WI-3),48800.0,29400.0,4900.0,7300.0,1800.0,15500.0,3400.0,19300.0
+K000210,Peter,King,rep,NY,2.0,Republican,RepPeteKing,New York,Peter T. King (NY-2),(NY-2),24800.0,19600.0,4900.0,4600.0,1000.0,9200.0,1800.0,5200.0
+K000362,Steve,King,rep,IA,4.0,Republican,SteveKingIA,Iowa,Steve King (IA-4),(IA-4),31000.0,23100.0,4200.0,8200.0,1700.0,9100.0,2000.0,8000.0
+K000378,Adam,Kinzinger,rep,IL,16.0,Republican,RepKinzinger,Illinois,Adam Kinzinger (IL-16),(IL-16),31000.0,19700.0,4100.0,8700.0,1100.0,5800.0,2100.0,11300.0
+L000573,Raúl,Labrador,rep,ID,1.0,Republican,Raul_Labrador,Idaho,Raúl R. Labrador (ID-1),(ID-1),72200.0,43900.0,2600.0,11000.0,1900.0,28400.0,2100.0,28300.0
+L000564,Doug,Lamborn,rep,CO,5.0,Republican,RepDLamborn,Colorado,Doug Lamborn (CO-5),(CO-5),29200.0,24200.0,3000.0,8400.0,1300.0,11500.0,1300.0,5000.0
+L000567,Leonard,Lance,rep,NJ,7.0,Republican,RepLanceNJ7,New Jersey,Leonard Lance (NJ-7),(NJ-7),22300.0,9900.0,800.0,3700.0,700.0,4600.0,1300.0,12400.0
+L000559,James,Langevin,rep,RI,2.0,Democrat,JimLangevin,Rhode Island,James R. Langevin (RI-2),(RI-2),20100.0,14900.0,2800.0,5300.0,1800.0,5000.0,1800.0,5300.0
+L000575,James,Lankford,sen,OK,,Republican,SenatorLankford,Oklahoma,,,395100.0,238100.0,14400.0,57900.0,9600.0,156400.0,12000.0,157000.0
+L000560,Rick,Larsen,rep,WA,2.0,Democrat,RepRickLarsen,Washington,Rick Larsen (WA-2),(WA-2),27600.0,23800.0,1600.0,9200.0,1500.0,11500.0,1800.0,3800.0
+L000557,John,Larson,rep,CT,1.0,Democrat,RepJohnLarson,Connecticut,John B. Larson (CT-1),(CT-1),43400.0,26200.0,7100.0,8100.0,1000.0,10100.0,2300.0,17200.0
+L000566,Robert,Latta,rep,OH,5.0,Republican,BobLatta,Ohio,Robert E. Latta (OH-5),(OH-5),22800.0,18800.0,3500.0,6600.0,1300.0,7400.0,1600.0,4000.0
+L000174,Patrick,Leahy,sen,VT,,Democrat,SenatorLeahy,Vermont,,,51200.0,32900.0,8900.0,7800.0,1900.0,14300.0,3100.0,18400.0
+L000551,Barbara,Lee,rep,CA,13.0,Democrat,RepBarbaraLee,California,Barbara Lee (CA-13),(CA-13),45200.0,29800.0,4900.0,9600.0,1900.0,13300.0,4000.0,15500.0
+L000577,Mike,Lee,sen,UT,,Republican,SenMikeLee,Utah,,,186000.0,119100.0,9000.0,26400.0,3900.0,79800.0,3900.0,66900.0
+L000263,Sander,Levin,rep,MI,9.0,Democrat,RepSandyLevin,Michigan,Sander M. Levin (MI-9),(MI-9),35500.0,25500.0,3700.0,10500.0,2300.0,9000.0,2600.0,10000.0
+L000287,John,Lewis,rep,GA,5.0,Democrat,RepJohnLewis,Georgia,John Lewis (GA-5),(GA-5),82300.0,60000.0,2400.0,12900.0,2200.0,42500.0,1900.0,22300.0
+L000563,Daniel,Lipinski,rep,IL,3.0,Democrat,RepLipinski,Illinois,Daniel Lipinski (IL-3),(IL-3),38500.0,25800.0,5000.0,10500.0,1300.0,9000.0,1800.0,12700.0
+L000554,Frank,LoBiondo,rep,NJ,2.0,Republican,RepLoBiondo,New Jersey,Frank A. LoBiondo (NJ-2),(NJ-2),39000.0,26900.0,2400.0,10800.0,2200.0,11600.0,2300.0,12100.0
+L000565,David,Loebsack,rep,IA,2.0,Democrat,DaveLoebsack,Iowa,David Loebsack (IA-2),(IA-2),33300.0,24900.0,4700.0,9200.0,1900.0,9000.0,2000.0,8400.0
+L000397,Zoe,Lofgren,rep,CA,19.0,Democrat,RepZoeLofgren,California,Zoe Lofgren (CA-19),(CA-19),42700.0,29800.0,5300.0,10500.0,2100.0,11900.0,5300.0,12900.0
+L000576,Billy,Long,rep,MO,7.0,Republican,USRepLong,Missouri,Billy Long (MO-7),(MO-7),74400.0,49700.0,1900.0,9800.0,2200.0,35800.0,2300.0,24700.0
+L000480,Nita,Lowey,rep,NY,17.0,Democrat,NitaLowey,New York,Nita M. Lowey (NY-17),(NY-17),34900.0,30200.0,6700.0,6300.0,1400.0,15800.0,2600.0,4700.0
+L000491,Frank,Lucas,rep,OK,3.0,Republican,RepFrankLucas,Oklahoma,Frank D. Lucas (OK-3),(OK-3),68700.0,39100.0,2500.0,10200.0,1700.0,24700.0,2400.0,29600.0
+L000569,Blaine,Luetkemeyer,rep,MO,3.0,Republican,RepBlainePress,Missouri,Blaine Luetkemeyer (MO-3),(MO-3),46700.0,27400.0,1300.0,7000.0,1600.0,17500.0,1600.0,19200.0
+L000570,Ben,Luján,rep,NM,3.0,Democrat,RepBenRayLujan,New Mexico,Ben Ray Luján (NM-3),(NM-3),45400.0,39900.0,4300.0,14500.0,1600.0,19600.0,2100.0,5400.0
+L000562,Stephen,Lynch,rep,MA,8.0,Democrat,RepStephenLynch,Massachusetts,Stephen F. Lynch (MA-8),(MA-8),25800.0,23000.0,6500.0,6600.0,4100.0,5700.0,4100.0,2800.0
+M000087,Carolyn,Maloney,rep,NY,12.0,Democrat,RepMaloney,New York,Carolyn B. Maloney (NY-12),(NY-12),29700.0,23700.0,3800.0,3600.0,800.0,15500.0,3400.0,5900.0
+M001158,Kenny,Marchant,rep,TX,24.0,Republican,RepKenMarchant,Texas,Kenny Marchant (TX-24),(TX-24),54800.0,38500.0,800.0,7900.0,1100.0,28800.0,900.0,16300.0
+M001179,Tom,Marino,rep,PA,10.0,Republican,RepTomMarino,Pennsylvania,Tom Marino (PA-10),(PA-10),37700.0,20500.0,2100.0,7500.0,3100.0,7700.0,3000.0,17200.0
+M000133,Edward,Markey,sen,MA,,Democrat,SenMarkey,Massachusetts,,,285300.0,259800.0,64100.0,65500.0,40900.0,89500.0,37200.0,25200.0
+M001163,Doris,Matsui,rep,CA,6.0,Democrat,DorisMatsui,California,Doris O. Matsui (CA-6),(CA-6),55400.0,42600.0,7200.0,14300.0,2900.0,18200.0,3600.0,12800.0
+M000303,John,McCain,sen,AZ,,Republican,SenJohnMcCain,Arizona,,,461000.0,246200.0,51600.0,87800.0,12600.0,94300.0,18100.0,215100.0
+M001165,Kevin,McCarthy,rep,CA,23.0,Republican,GOPLeader,California,Kevin McCarthy (CA-23),(CA-23),46000.0,35500.0,6000.0,11800.0,2400.0,15400.0,2500.0,10500.0
+M001157,Michael,McCaul,rep,TX,10.0,Republican,RepMcCaul,Texas,Michael T. McCaul (TX-10),(TX-10),55800.0,38700.0,900.0,9300.0,1300.0,27300.0,1100.0,17100.0
+M001177,Tom,McClintock,rep,CA,4.0,Republican,RepMcClintock,California,Tom McClintock (CA-4),(CA-4),33600.0,19000.0,3200.0,6300.0,1300.0,8300.0,2700.0,14600.0
+M001143,Betty,McCollum,rep,MN,4.0,Democrat,BettyMcCollum04,Minnesota,Betty McCollum (MN-4),(MN-4),30900.0,21200.0,5600.0,7300.0,1500.0,6700.0,1800.0,9700.0
+M000312,James,McGovern,rep,MA,2.0,Democrat,RepMcGovern,Massachusetts,James P. McGovern (MA-2),(MA-2),32400.0,29600.0,7300.0,7500.0,4700.0,10100.0,4400.0,2800.0
+M001156,Patrick,McHenry,rep,NC,10.0,Republican,PatrickMcHenry,North Carolina,Patrick T. McHenry (NC-10),(NC-10),104400.0,50400.0,2500.0,12200.0,2500.0,33200.0,2800.0,54000.0
+M001180,David,McKinley,rep,WV,1.0,Republican,RepMcKinley,West Virginia,David B. McKinley (WV-1),(WV-1),36100.0,24500.0,1800.0,7600.0,2700.0,12300.0,2300.0,11600.0
+M001159,Cathy,McMorris Rodgers,rep,WA,5.0,Republican,CathyMcMorris,Washington,Cathy McMorris Rodgers (WA-5),(WA-5),33400.0,30200.0,2100.0,12100.0,1900.0,14100.0,2200.0,3100.0
+M001166,Jerry,McNerney,rep,CA,9.0,Democrat,RepMcNerney,California,Jerry McNerney (CA-9),(CA-9),52900.0,40000.0,7000.0,13900.0,2800.0,16300.0,3600.0,12900.0
+M001181,Patrick,Meehan,rep,PA,7.0,Republican,RepMeehan,Pennsylvania,Patrick Meehan (PA-7),(PA-7),32500.0,10600.0,1100.0,3900.0,1600.0,4000.0,2000.0,21900.0
+M001137,Gregory,Meeks,rep,NY,5.0,Democrat,GregoryMeeks,New York,Gregory W. Meeks (NY-5),(NY-5),55400.0,47500.0,12200.0,11600.0,2600.0,21100.0,5000.0,8000.0
+M001160,Gwen,Moore,rep,WI,4.0,Democrat,RepGwenMoore,Wisconsin,Gwen Moore (WI-4),(WI-4),76800.0,58500.0,9900.0,14800.0,3600.0,30200.0,3600.0,18300.0
+M000934,Jerry,Moran,sen,KS,,Republican,JerryMoran,Kansas,,,198200.0,135900.0,6200.0,34500.0,6100.0,89000.0,6100.0,62400.0
+M001153,Lisa,Murkowski,sen,AK,,Republican,LisaMurkowski,Alaska,,,64500.0,17200.0,3600.0,8900.0,1400.0,3300.0,2000.0,47300.0
+M001169,Christopher,Murphy,sen,CT,,Democrat,senmurphyoffice,Connecticut,,,206800.0,120800.0,32400.0,36900.0,4400.0,47000.0,9300.0,86000.0
+M001151,Tim,Murphy,rep,PA,18.0,Republican,RepTimMurphy,Pennsylvania,Tim Murphy (PA-18),(PA-18),31900.0,15800.0,1700.0,6000.0,2500.0,5700.0,3100.0,16100.0
+M001111,Patty,Murray,sen,WA,,Democrat,PattyMurray,Washington,,,298700.0,264300.0,16700.0,97400.0,15600.0,134600.0,18700.0,34300.0
+N000002,Jerrold,Nadler,rep,NY,10.0,Democrat,RepJerryNadler,New York,Jerrold Nadler (NY-10),(NY-10),38600.0,32500.0,9000.0,8500.0,1900.0,13100.0,4200.0,6100.0
+N000179,Grace,Napolitano,rep,CA,32.0,Democrat,GraceNapolitano,California,Grace F. Napolitano (CA-32),(CA-32),51800.0,36100.0,6200.0,12200.0,2400.0,15300.0,5100.0,15700.0
+N000015,Richard,Neal,rep,MA,1.0,Democrat,RepRichardNeal,Massachusetts,Richard E. Neal (MA-1),(MA-1),41100.0,38200.0,10300.0,10500.0,6600.0,10900.0,4300.0,2800.0
+N000184,Kristi,Noem,rep,SD,0.0,Republican,RepKristiNoem,South Dakota,Kristi L. Noem (SD-AL),(SD-AL),63700.0,39500.0,2500.0,10900.0,1600.0,24500.0,1800.0,24300.0
+N000147,Eleanor,Norton,rep,DC,0.0,Democrat,EleanorNorton,District of Columbia,Eleanor Holmes Norton (DC-AL),(DC-AL),41200.0,34400.0,9500.0,8300.0,2600.0,14000.0,4500.0,6800.0
+N000181,Devin,Nunes,rep,CA,22.0,Republican,Rep_DevinNunes,California,Devin Nunes (CA-22),(CA-22),51300.0,40600.0,7000.0,13900.0,2800.0,16900.0,3000.0,10700.0
+O000168,Pete,Olson,rep,TX,22.0,Republican,RepPeteOlson,Texas,Pete Olson (TX-22),(TX-22),45300.0,25300.0,600.0,6200.0,800.0,17700.0,1500.0,20000.0
+P000601,Steven,Palazzo,rep,MS,4.0,Republican,CongPalazzo,Mississippi,Steven M. Palazzo (MS-4),(MS-4),64100.0,55000.0,2200.0,13000.0,3000.0,36800.0,2800.0,9100.0
+P000034,Frank,Pallone,rep,NJ,6.0,Democrat,FrankPallone,New Jersey,"Frank Pallone, Jr. (NJ-6)",(NJ-6),33700.0,20500.0,1700.0,7600.0,1500.0,9800.0,2100.0,13100.0
+P000096,Bill,Pascrell,rep,NJ,9.0,Democrat,BillPascrell,New Jersey,"Bill Pascrell, Jr. (NJ-9)",(NJ-9),47000.0,32700.0,2700.0,12300.0,2500.0,15200.0,2600.0,14200.0
+P000603,Rand,Paul,sen,KY,,Republican,,Kentucky,,,231400.0,195300.0,14800.0,61800.0,18200.0,100300.0,15900.0,36200.0
+P000594,Erik,Paulsen,rep,MN,3.0,Republican,RepErikPaulsen,Minnesota,Erik Paulsen (MN-3),(MN-3),21900.0,12100.0,3300.0,4300.0,900.0,3500.0,1300.0,9700.0
+P000588,Stevan,Pearce,rep,NM,2.0,Republican,RepStevePearce,New Mexico,Stevan Pearce (NM-2),(NM-2),47100.0,42000.0,4600.0,15600.0,1700.0,20100.0,2200.0,5100.0
+P000197,Nancy,Pelosi,rep,CA,12.0,Democrat,NancyPelosi,California,Nancy Pelosi (CA-12),(CA-12),37700.0,22100.0,4100.0,8100.0,1600.0,8200.0,6100.0,15600.0
+P000593,Ed,Perlmutter,rep,CO,7.0,Democrat,RepPerlmutter,Colorado,Ed Perlmutter (CO-7),(CO-7),33000.0,26700.0,3100.0,8900.0,1400.0,13300.0,1900.0,6300.0
+P000595,Gary,Peters,sen,MI,,Democrat,SenGaryPeters,Michigan,,,489400.0,378700.0,53300.0,149200.0,32400.0,143400.0,32400.0,110900.0
+P000258,Collin,Peterson,rep,MN,7.0,Democrat,,Minnesota,Collin C. Peterson (MN-7),(MN-7),27500.0,17100.0,5000.0,6600.0,1300.0,4200.0,2800.0,10300.0
+P000597,Chellie,Pingree,rep,ME,1.0,Democrat,ChelliePingree,Maine,Chellie Pingree (ME-1),(ME-1),55900.0,27000.0,5100.0,7000.0,2100.0,12900.0,2500.0,28900.0
+P000592,Ted,Poe,rep,TX,2.0,Republican,JudgeTedPoe,Texas,Ted Poe (TX-2),(TX-2),54300.0,37400.0,800.0,8300.0,1100.0,27100.0,1200.0,16900.0
+P000598,Jared,Polis,rep,CO,2.0,Democrat,RepJaredPolis,Colorado,Jared Polis (CO-2),(CO-2),26900.0,17100.0,1600.0,4700.0,700.0,10000.0,1000.0,9800.0
+P000449,Robert,Portman,sen,OH,,Republican,SenRobPortman,Ohio,,,469600.0,396300.0,74400.0,140700.0,27600.0,153500.0,32000.0,73100.0
+P000599,Bill,Posey,rep,FL,8.0,Republican,CongBillPosey,Florida,Bill Posey (FL-8),(FL-8),63500.0,40200.0,2400.0,8600.0,1400.0,27800.0,1900.0,23300.0
+P000523,David,Price,rep,NC,4.0,Democrat,RepDavidEPrice,North Carolina,David E. Price (NC-4),(NC-4),94800.0,34900.0,1500.0,7500.0,1500.0,24300.0,1400.0,59900.0
+Q000023,Mike,Quigley,rep,IL,5.0,Democrat,RepMikeQuigley,Illinois,Mike Quigley (IL-5),(IL-5),29500.0,16500.0,2600.0,5500.0,700.0,7600.0,2400.0,13000.0
+R000585,Tom,Reed,rep,NY,23.0,Republican,RepTomReed,New York,Tom Reed (NY-23),(NY-23),37300.0,34000.0,7900.0,7400.0,1700.0,17100.0,2700.0,3300.0
+R000578,David,Reichert,rep,WA,8.0,Republican,DaveReichert,Washington,David G. Reichert (WA-8),(WA-8),26400.0,22600.0,1500.0,8800.0,1400.0,11000.0,1300.0,3700.0
+R000586,James,Renacci,rep,OH,16.0,Republican,RepJimRenacci,Ohio,James B. Renacci (OH-16),(OH-16),17600.0,12900.0,2500.0,4800.0,900.0,4600.0,1500.0,4700.0
+R000588,Cedric,Richmond,rep,LA,2.0,Democrat,RepRichmond,Louisiana,Cedric L. Richmond (LA-2),(LA-2),75600.0,42700.0,7600.0,16100.0,4000.0,15200.0,4900.0,32900.0
+R000591,Martha,Roby,rep,AL,2.0,Republican,RepMarthaRoby,Alabama,Martha Roby (AL-2),(AL-2),66500.0,45300.0,1000.0,12800.0,2700.0,28800.0,2300.0,21200.0
+R000582,David,Roe,rep,TN,1.0,Republican,DrPhilRoe,Tennessee,David P. Roe (TN-1),(TN-1),75400.0,48800.0,4100.0,11400.0,2100.0,31200.0,2700.0,26600.0
+R000395,Harold,Rogers,rep,KY,5.0,Republican,RepHalRogers,Kentucky,Harold Rogers (KY-5),(KY-5),51100.0,45300.0,3700.0,15500.0,4600.0,21500.0,4000.0,5800.0
+R000575,Mike,Rogers,rep,AL,3.0,Republican,RepMikeRogersAL,Alabama,Mike Rogers (AL-3),(AL-3),68300.0,46700.0,1000.0,12500.0,2600.0,30500.0,1900.0,21600.0
+R000409,Dana,Rohrabacher,rep,CA,48.0,Republican,reprohrabacher,California,Dana Rohrabacher (CA-48),(CA-48),38700.0,22300.0,3000.0,5900.0,1200.0,12300.0,2900.0,16400.0
+R000592,Todd,Rokita,rep,IN,4.0,Republican,ToddRokita,Indiana,Todd Rokita (IN-4),(IN-4),25200.0,18900.0,2200.0,7300.0,1300.0,8000.0,1500.0,6400.0
+R000583,Thomas,Rooney,rep,FL,17.0,Republican,TomRooney,Florida,Thomas J. Rooney (FL-17),(FL-17),68500.0,47600.0,2800.0,10100.0,1600.0,33000.0,2400.0,21000.0
+R000435,Ileana,Ros-Lehtinen,rep,FL,27.0,Republican,RosLehtinen,Florida,Ileana Ros-Lehtinen (FL-27),(FL-27),109100.0,57700.0,3200.0,11500.0,1800.0,41200.0,4700.0,51400.0
+R000580,Peter,Roskam,rep,IL,6.0,Republican,PeterRoskam,Illinois,Peter J. Roskam (IL-6),(IL-6),24900.0,10100.0,2100.0,4600.0,600.0,2900.0,1400.0,14800.0
+R000593,Dennis,Ross,rep,FL,15.0,Republican,RepDennisRoss,Florida,Dennis A. Ross (FL-15),(FL-15),71500.0,50300.0,3100.0,11300.0,1800.0,34000.0,1800.0,21200.0
+R000486,Lucille,Roybal-Allard,rep,CA,40.0,Democrat,RepRoybalAllard,California,Lucille Roybal-Allard (CA-40),(CA-40),81200.0,65500.0,9200.0,18300.0,3700.0,34300.0,4600.0,15700.0
+R000487,Edward,Royce,rep,CA,39.0,Republican,RepEdRoyce,California,Edward R. Royce (CA-39),(CA-39),37800.0,22000.0,2900.0,5800.0,1200.0,12200.0,3100.0,15800.0
+R000595,Marco,Rubio,sen,FL,,Republican,SenRubioPress,Florida,,,2086500.0,1269000.0,74200.0,267000.0,42900.0,884900.0,60200.0,817500.0
+R000576,C.,Ruppersberger,rep,MD,2.0,Democrat,Call_Me_Dutch,Maryland,C. A. Dutch Ruppersberger (MD-2),(MD-2),30700.0,23200.0,5600.0,9000.0,1500.0,7200.0,1700.0,7400.0
+R000515,Bobby,Rush,rep,IL,1.0,Democrat,RepBobbyRush,Illinois,Bobby L. Rush (IL-1),(IL-1),42900.0,30200.0,5800.0,12400.0,1600.0,10400.0,3600.0,12700.0
+R000570,Paul,Ryan,rep,WI,1.0,Republican,SpeakerRyan,Wisconsin,Paul D. Ryan (WI-1),(WI-1),45500.0,27900.0,4900.0,7400.0,1800.0,13900.0,2600.0,17600.0
+R000577,Tim,Ryan,rep,OH,13.0,Democrat,RepTimRyan,Ohio,Tim Ryan (OH-13),(OH-13),33200.0,28300.0,5300.0,10000.0,2000.0,11000.0,2600.0,4900.0
+S001177,Gregorio,Sablan,rep,MP,0.0,Democrat,,,,,,,,,,,,
+S001168,John,Sarbanes,rep,MD,3.0,Democrat,RepSarbanes,Maryland,John P. Sarbanes (MD-3),(MD-3),26100.0,18300.0,4100.0,6600.0,1100.0,6600.0,1700.0,7700.0
+S001176,Steve,Scalise,rep,LA,1.0,Republican,SteveScalise,Louisiana,Steve Scalise (LA-1),(LA-1),53600.0,23200.0,4100.0,8700.0,2100.0,8200.0,3300.0,30400.0
+S001145,Janice,Schakowsky,rep,IL,9.0,Democrat,JanSchakowsky,Illinois,Janice D. Schakowsky (IL-9),(IL-9),31700.0,18900.0,3200.0,6800.0,900.0,8100.0,3000.0,12800.0
+S001150,Adam,Schiff,rep,CA,28.0,Democrat,RepAdamSchiff,California,Adam B. Schiff (CA-28),(CA-28),45500.0,29800.0,4100.0,8100.0,1600.0,15900.0,7800.0,15700.0
+S001180,Kurt,Schrader,rep,OR,5.0,Democrat,RepSchrader,Oregon,Kurt Schrader (OR-5),(OR-5),50400.0,36500.0,4800.0,9500.0,1700.0,20500.0,1700.0,13900.0
+S000148,Charles,Schumer,sen,NY,,Democrat,SenSchumer,New York,,,1139000.0,1001700.0,244600.0,231000.0,51500.0,474500.0,103300.0,137500.0
+S001183,David,Schweikert,rep,AZ,6.0,Republican,RepDavid,Arizona,David Schweikert (AZ-6),(AZ-6),41300.0,16400.0,3300.0,5600.0,800.0,6700.0,1700.0,24900.0
+S001189,Austin,Scott,rep,GA,8.0,Republican,AustinScottGA08,Georgia,Austin Scott (GA-8),(GA-8),66600.0,55200.0,2100.0,11600.0,2000.0,39500.0,2200.0,11400.0
+S001157,David,Scott,rep,GA,13.0,Democrat,RepDavidScott,Georgia,David Scott (GA-13),(GA-13),77200.0,54500.0,2100.0,11700.0,2000.0,38700.0,1000.0,22700.0
+S000185,Robert,Scott,rep,VA,3.0,Democrat,BobbyScott,Virginia,"Robert C. ""Bobby"" Scott (VA-3)",(VA-3),51900.0,39200.0,2200.0,9500.0,1700.0,25800.0,1700.0,12700.0
+S001184,Tim,Scott,sen,SC,,Republican,SenatorTimScott,South Carolina,,,458000.0,305300.0,16100.0,75000.0,14100.0,200100.0,16400.0,152800.0
+S000244,F.,Sensenbrenner,rep,WI,5.0,Republican,JimPressOffice,Wisconsin,"F. James Sensenbrenner, Jr. (WI-5)",(WI-5),35900.0,18200.0,3400.0,5100.0,1300.0,8400.0,2600.0,17600.0
+S000248,José,Serrano,rep,NY,15.0,Democrat,RepJoseSerrano,New York,José E. Serrano (NY-15),(NY-15),94900.0,89100.0,23300.0,22000.0,4900.0,38900.0,6700.0,5800.0
+S000250,Pete,Sessions,rep,TX,32.0,Republican,PeteSessions,Texas,Pete Sessions (TX-32),(TX-32),62500.0,46200.0,1000.0,9900.0,1300.0,34000.0,1200.0,16300.0
+S001185,Terri,Sewell,rep,AL,7.0,Democrat,RepTerriSewell,Alabama,Terri A. Sewell (AL-7),(AL-7),78200.0,55300.0,1400.0,17100.0,3600.0,33100.0,2700.0,23000.0
+S000320,Richard,Shelby,sen,AL,,Republican,SenShelby,Alabama,,,480500.0,310000.0,6800.0,84300.0,17700.0,200900.0,14600.0,170600.0
+S000344,Brad,Sherman,rep,CA,30.0,Democrat,BradSherman,California,Brad Sherman (CA-30),(CA-30),43700.0,28000.0,3600.0,7100.0,1400.0,15900.0,4300.0,15700.0
+S000364,John,Shimkus,rep,IL,15.0,Republican,RepShimkus,Illinois,John Shimkus (IL-15),(IL-15),34700.0,23700.0,5200.0,10900.0,1400.0,6200.0,2800.0,11000.0
+S001154,Bill,Shuster,rep,PA,9.0,Republican,RepBillShuster,Pennsylvania,Bill Shuster (PA-9),(PA-9),37700.0,23600.0,2400.0,8400.0,3500.0,9400.0,3500.0,14100.0
+S001148,Michael,Simpson,rep,ID,2.0,Republican,CongMikeSimpson,Idaho,Michael K. Simpson (ID-2),(ID-2),72500.0,44300.0,2400.0,10100.0,1700.0,30000.0,2000.0,28300.0
+S001165,Albio,Sires,rep,NJ,8.0,Democrat,RepSires,New Jersey,Albio Sires (NJ-8),(NJ-8),54800.0,42200.0,3100.0,14100.0,2800.0,22100.0,3300.0,12600.0
+S000480,Louise,Slaughter,rep,NY,25.0,Democrat,LouiseSlaughter,New York,Louise McIntosh Slaughter (NY-25),(NY-25),32800.0,29400.0,8100.0,7600.0,1700.0,12100.0,2500.0,3400.0
+S000510,Adam,Smith,rep,WA,9.0,Democrat,RepAdamSmith,Washington,Adam Smith (WA-9),(WA-9),34000.0,30000.0,1800.0,10200.0,1600.0,16400.0,2500.0,4000.0
+S001172,Adrian,Smith,rep,NE,3.0,Republican,RepAdrianSmith,Nebraska,Adrian Smith (NE-3),(NE-3),64800.0,27000.0,1500.0,6500.0,1200.0,17700.0,1700.0,37900.0
+S000522,Christopher,Smith,rep,NJ,4.0,Republican,RepChrisSmith,New Jersey,Christopher H. Smith (NJ-4),(NJ-4),31500.0,19100.0,1800.0,8200.0,1600.0,7500.0,1900.0,12400.0
+S000583,Lamar,Smith,rep,TX,21.0,Republican,LamarSmithTX21,Texas,Lamar Smith (TX-21),(TX-21),49900.0,33100.0,700.0,7200.0,1000.0,24200.0,1400.0,16800.0
+S001175,Jackie,Speier,rep,CA,14.0,Democrat,RepSpeier,California,Jackie Speier (CA-14),(CA-14),28500.0,15900.0,2800.0,5600.0,1100.0,6400.0,3400.0,12500.0
+S001187,Steve,Stivers,rep,OH,15.0,Republican,RepSteveStivers,Ohio,Steve Stivers (OH-15),(OH-15),26600.0,22200.0,4100.0,7800.0,1500.0,8800.0,1800.0,4300.0
+S001156,Linda,Sánchez,rep,CA,38.0,Democrat,RepLindaSanchez,California,Linda T. Sánchez (CA-38),(CA-38),45900.0,30100.0,4500.0,8800.0,1800.0,15100.0,4000.0,15700.0
+T000193,Bennie,Thompson,rep,MS,2.0,Democrat,BennieGThompson,Mississippi,Bennie G. Thompson (MS-2),(MS-2),82900.0,69600.0,3200.0,19300.0,4500.0,42600.0,3600.0,13200.0
+T000460,Mike,Thompson,rep,CA,5.0,Democrat,RepThompson,California,Mike Thompson (CA-5),(CA-5),39200.0,25400.0,4400.0,8600.0,1700.0,10700.0,2500.0,13800.0
+T000467,Glenn,Thompson,rep,PA,5.0,Republican,CongressmanGT,Pennsylvania,Glenn Thompson (PA-5),(PA-5),34300.0,21700.0,2200.0,7900.0,3300.0,8300.0,3300.0,12600.0
+T000238,Mac,Thornberry,rep,TX,13.0,Republican,MacTXPress,Texas,Mac Thornberry (TX-13),(TX-13),52300.0,43500.0,1000.0,10700.0,1500.0,30400.0,1400.0,8800.0
+T000250,John,Thune,sen,SD,,Republican,SenJohnThune,South Dakota,,,63700.0,39500.0,2500.0,10900.0,1600.0,24500.0,1800.0,24300.0
+T000462,Patrick,Tiberi,rep,OH,12.0,Republican,pattiberi,Ohio,Patrick J. Tiberi (OH-12),(OH-12),23100.0,18500.0,3400.0,6300.0,1200.0,7500.0,1400.0,4600.0
+T000470,Scott,Tipton,rep,CO,3.0,Republican,RepTipton,Colorado,Scott R. Tipton (CO-3),(CO-3),43200.0,34300.0,3800.0,10800.0,1600.0,18100.0,2300.0,8900.0
+T000469,Paul,Tonko,rep,NY,20.0,Democrat,RepPaulTonko,New York,Paul Tonko (NY-20),(NY-20),30200.0,27200.0,7000.0,6700.0,1500.0,12000.0,2200.0,3000.0
+T000461,Patrick,Toomey,sen,PA,,Republican,SenToomey,Pennsylvania,,,731000.0,409000.0,41300.0,147100.0,61500.0,159100.0,56400.0,322000.0
+T000465,Niki,Tsongas,rep,MA,3.0,Democrat,NikiInTheHouse,Massachusetts,Niki Tsongas (MA-3),(MA-3),37900.0,35100.0,8100.0,8300.0,5200.0,13500.0,4600.0,2800.0
+T000463,Michael,Turner,rep,OH,10.0,Republican,RepMikeTurner,Ohio,Michael R. Turner (OH-10),(OH-10),31400.0,26900.0,5200.0,9800.0,1900.0,10100.0,2200.0,4400.0
+U000031,Fred,Upton,rep,MI,6.0,Republican,RepFredUpton,Michigan,Fred Upton (MI-6),(MI-6),35000.0,27000.0,3600.0,10100.0,2200.0,11100.0,2200.0,8000.0
+V000128,Chris,Van Hollen,sen,MD,,Democrat,ChrisVanHollen,Maryland,,,227400.0,164800.0,37900.0,60800.0,10000.0,56300.0,12800.0,62600.0
+V000081,Nydia,Velázquez,rep,NY,7.0,Democrat,NydiaVelazquez,New York,Nydia M. Velázquez (NY-7),(NY-7),75500.0,68300.0,15800.0,14900.0,3300.0,34200.0,7500.0,7100.0
+V000108,Peter,Visclosky,rep,IN,1.0,Democrat,RepVisclosky,Indiana,Peter J. Visclosky (IN-1),(IN-1),29500.0,23300.0,2900.0,9800.0,1700.0,8900.0,2000.0,6300.0
+W000798,Tim,Walberg,rep,MI,7.0,Republican,RepWalberg,Michigan,Tim Walberg (MI-7),(MI-7),29600.0,22700.0,3200.0,9000.0,1900.0,8500.0,1900.0,6900.0
+W000791,Greg,Walden,rep,OR,2.0,Republican,RepGregWalden,Oregon,Greg Walden (OR-2),(OR-2),66700.0,48800.0,5500.0,10700.0,1900.0,30700.0,2000.0,17900.0
+W000799,Timothy,Walz,rep,MN,1.0,Democrat,RepTimWalz,Minnesota,Timothy J. Walz (MN-1),(MN-1),26900.0,16800.0,4500.0,5800.0,1200.0,5300.0,1700.0,10100.0
+W000797,Debbie,Wasserman Schultz,rep,FL,23.0,Democrat,RepDWStweets,Florida,Debbie Wasserman Schultz (FL-23),(FL-23),91300.0,45500.0,2700.0,9600.0,1500.0,31700.0,2300.0,45800.0
+W000187,Maxine,Waters,rep,CA,43.0,Democrat,MaxineWaters,California,Maxine Waters (CA-43),(CA-43),58600.0,42900.0,6400.0,12700.0,2500.0,21200.0,4200.0,15700.0
+W000806,Daniel,Webster,rep,FL,11.0,Republican,RepWebster,Florida,Daniel Webster (FL-11),(FL-11),67400.0,45400.0,2700.0,9800.0,1600.0,31300.0,2200.0,22000.0
+W000800,Peter,Welch,rep,VT,0.0,Democrat,PeterWelch,Vermont,Peter Welch (VT-AL),(VT-AL),51200.0,32900.0,8900.0,7800.0,1900.0,14300.0,3100.0,18400.0
+W000795,Joe,Wilson,rep,SC,2.0,Republican,RepJoeWilson,South Carolina,Joe Wilson (SC-2),(SC-2),50200.0,31600.0,2000.0,9200.0,1700.0,18800.0,1800.0,18600.0
+W000808,Frederica,Wilson,rep,FL,24.0,Democrat,RepWilson,Florida,Frederica S. Wilson (FL-24),(FL-24),106800.0,56100.0,3100.0,11200.0,1800.0,39900.0,4400.0,50700.0
+W000804,Robert,Wittman,rep,VA,1.0,Republican,RobWittman,Virginia,Robert J. Wittman (VA-1),(VA-1),40100.0,22500.0,1300.0,5500.0,1000.0,14800.0,1200.0,17500.0
+W000809,Steve,Womack,rep,AR,3.0,Republican,Rep_SteveWomack,Arkansas,Steve Womack (AR-3),(AR-3),42600.0,34800.0,1000.0,12900.0,3000.0,17900.0,2000.0,7900.0
+W000810,Rob,Woodall,rep,GA,7.0,Republican,RepRobWoodall,Georgia,Rob Woodall (GA-7),(GA-7),71100.0,41800.0,1500.0,8100.0,1400.0,30900.0,1200.0,29300.0
+W000779,Ron,Wyden,sen,OR,,Democrat,RonWyden,Oregon,,,283300.0,203800.0,23900.0,46800.0,8400.0,124700.0,9500.0,79600.0
+Y000062,John,Yarmuth,rep,KY,3.0,Democrat,RepJohnYarmuth,Kentucky,John A. Yarmuth (KY-3),(KY-3),36400.0,30300.0,2300.0,9700.0,2800.0,15500.0,2100.0,6000.0
+Y000063,Kevin,Yoder,rep,KS,3.0,Republican,RepKevinYoder,Kansas,Kevin Yoder (KS-3),(KS-3),48800.0,28800.0,1300.0,7200.0,1300.0,19000.0,1300.0,20000.0
+Y000033,Don,Young,rep,AK,0.0,Republican,RepDonYoung,Alaska,Don Young (AK-AL),(AK-AL),64500.0,17200.0,3600.0,8900.0,1400.0,3300.0,2000.0,47300.0
+Y000064,Todd,Young,sen,IN,,Republican,SenToddYoung,Indiana,,,270400.0,210200.0,24800.0,83700.0,14900.0,86500.0,16700.0,60500.0
+H001041,Dean,Heller,sen,NV,,Republican,SenDeanHeller,Nevada,,,122500.0,87300.0,7900.0,29800.0,3500.0,46100.0,3900.0,35500.0
+A000369,Mark,Amodei,rep,NV,2.0,Republican,MarkAmodeiNV2,Nevada,Mark E. Amodei (NV-2),(NV-2),30400.0,20500.0,1800.0,6800.0,800.0,11100.0,900.0,10000.0
+B001278,Suzanne,Bonamici,rep,OR,1.0,Democrat,RepBonamici,Oregon,Suzanne Bonamici (OR-1),(OR-1),48000.0,33400.0,3600.0,7000.0,1300.0,21500.0,1500.0,14600.0
+D000617,Suzan,DelBene,rep,WA,1.0,Democrat,RepDelBene,Washington,Suzan K. DelBene (WA-1),(WA-1),23100.0,19200.0,1100.0,6600.0,1100.0,10400.0,1600.0,3800.0
+M001184,Thomas,Massie,rep,KY,4.0,Republican,RepThomasMassie,Kentucky,Thomas Massie (KY-4),(KY-4),30300.0,24200.0,1900.0,7800.0,2300.0,12200.0,1900.0,6200.0
+P000604,Donald,Payne,rep,NJ,10.0,Democrat,RepDonaldPayne,New Jersey,"Donald M. Payne, Jr. (NJ-10)",(NJ-10),49400.0,37700.0,3300.0,14900.0,3000.0,16600.0,2700.0,11700.0
+S001194,Brian,Schatz,sen,HI,,Democrat,SenBrianSchatz,Hawaii,,,58200.0,50500.0,10100.0,13100.0,2900.0,24400.0,4900.0,7700.0
+F000454,Bill,Foster,rep,IL,11.0,Democrat,RepBillFoster,Illinois,Bill Foster (IL-11),(IL-11),36000.0,22800.0,4300.0,9100.0,1200.0,8200.0,1100.0,13200.0
+T000468,Dina,Titus,rep,NV,1.0,Democrat,RepDinaTitus,Nevada,Dina Titus (NV-1),(NV-1),39900.0,31400.0,2700.0,10100.0,1200.0,17400.0,1200.0,8600.0
+C001095,Tom,Cotton,sen,AR,,Republican,SenTomCotton,Arkansas,,,172400.0,144600.0,4500.0,57900.0,13500.0,68900.0,11000.0,27900.0
+S001191,Kyrsten,Sinema,rep,AZ,9.0,Democrat,RepSinema,Arizona,Kyrsten Sinema (AZ-9),(AZ-9),52900.0,28000.0,5500.0,9300.0,1300.0,12000.0,1700.0,24900.0
+L000578,Doug,LaMalfa,rep,CA,1.0,Republican,RepLaMalfa,California,Doug LaMalfa (CA-1),(CA-1),46200.0,32700.0,5800.0,11600.0,2300.0,13000.0,3100.0,13500.0
+H001068,Jared,Huffman,rep,CA,2.0,Democrat,RepHuffman,California,Jared Huffman (CA-2),(CA-2),39800.0,25200.0,4300.0,8500.0,1700.0,10800.0,2300.0,14500.0
+B001287,Ami,Bera,rep,CA,7.0,Democrat,RepBera,California,Ami Bera (CA-7),(CA-7),37800.0,24900.0,4400.0,8700.0,1700.0,10100.0,2900.0,12900.0
+C001094,Paul,Cook,rep,CA,8.0,Republican,RepPaulCook,California,Paul Cook (CA-8),(CA-8),52400.0,39600.0,6600.0,13100.0,2600.0,17200.0,2800.0,12900.0
+S001193,Eric,Swalwell,rep,CA,15.0,Democrat,RepSwalwell,California,Eric Swalwell (CA-15),(CA-15),35000.0,19800.0,3700.0,7400.0,1500.0,7100.0,3000.0,15200.0
+V000129,David,Valadao,rep,CA,21.0,Republican,RepDavidValadao,California,David G. Valadao (CA-21),(CA-21),62300.0,52600.0,8600.0,17000.0,3400.0,23500.0,3300.0,9800.0
+B001285,Julia,Brownley,rep,CA,26.0,Democrat,JuliaBrownley26,California,Julia Brownley (CA-26),(CA-26),42100.0,26400.0,4000.0,7800.0,1600.0,13100.0,2800.0,15600.0
+C001097,Tony,Cárdenas,rep,CA,29.0,Democrat,RepCardenas,California,Tony Cárdenas (CA-29),(CA-29),65800.0,50100.0,7600.0,15000.0,3000.0,24600.0,4500.0,15700.0
+R000599,Raul,Ruiz,rep,CA,36.0,Democrat,CongressmanRuiz,California,Raul Ruiz (CA-36),(CA-36),55800.0,42100.0,6700.0,13200.0,2600.0,19700.0,3600.0,13700.0
+T000472,Mark,Takano,rep,CA,41.0,Democrat,RepMarkTakano,California,Mark Takano (CA-41),(CA-41),55600.0,41900.0,6800.0,13400.0,2700.0,19100.0,2700.0,13700.0
+L000579,Alan,Lowenthal,rep,CA,47.0,Democrat,RepLowenthal,California,Alan S. Lowenthal (CA-47),(CA-47),51000.0,35000.0,5400.0,10600.0,2100.0,16900.0,4000.0,15900.0
+V000130,Juan,Vargas,rep,CA,51.0,Democrat,RepJuanVargas,California,Juan Vargas (CA-51),(CA-51),67900.0,48400.0,7600.0,15000.0,3000.0,22800.0,5900.0,19500.0
+P000608,Scott,Peters,rep,CA,52.0,Democrat,RepScottPeters,California,Scott H. Peters (CA-52),(CA-52),30200.0,13800.0,1800.0,3600.0,700.0,7700.0,2300.0,16300.0
+E000293,Elizabeth,Esty,rep,CT,5.0,Democrat,RepEsty,Connecticut,Elizabeth H. Esty (CT-5),(CT-5),42300.0,25100.0,6900.0,7800.0,900.0,9400.0,1800.0,17200.0
+Y000065,Ted,Yoho,rep,FL,3.0,Republican,RepTedYoho,Florida,Ted S. Yoho (FL-3),(FL-3),66100.0,47400.0,2600.0,9300.0,1500.0,34000.0,1700.0,18700.0
+D000621,Ron,DeSantis,rep,FL,6.0,Republican,RepDeSantis,Florida,Ron DeSantis (FL-6),(FL-6),71600.0,45500.0,2500.0,9100.0,1500.0,32400.0,2200.0,26000.0
+F000462,Lois,Frankel,rep,FL,21.0,Democrat,RepLoisFrankel,Florida,Lois Frankel (FL-21),(FL-21),78100.0,41200.0,2300.0,8300.0,1300.0,29400.0,1900.0,36900.0
+C001093,Doug,Collins,rep,GA,9.0,Republican,RepDougCollins,Georgia,Doug Collins (GA-9),(GA-9),68800.0,52200.0,2000.0,10700.0,1800.0,37700.0,2200.0,16600.0
+G000571,Tulsi,Gabbard,rep,HI,2.0,Democrat,TulsiPress,Hawaii,Tulsi Gabbard (HI-2),(HI-2),35200.0,30500.0,5900.0,7700.0,1700.0,15200.0,1800.0,4700.0
+D000622,Tammy,Duckworth,sen,IL,,Democrat,SenDuckworth,Illinois,,,654800.0,435500.0,84200.0,178500.0,22600.0,150400.0,41100.0,219500.0
+D000619,Rodney,Davis,rep,IL,13.0,Republican,RodneyDavis,Illinois,Rodney Davis (IL-13),(IL-13),32500.0,23200.0,4600.0,9800.0,1200.0,7500.0,1900.0,9400.0
+B001286,Cheri,Bustos,rep,IL,17.0,Democrat,RepCheri,Illinois,Cheri Bustos (IL-17),(IL-17),40200.0,29600.0,6000.0,12800.0,1600.0,9100.0,2900.0,10700.0
+W000813,Jackie,Walorski,rep,IN,2.0,Republican,RepWalorski,Indiana,Jackie Walorski (IN-2),(IN-2),32700.0,26000.0,2800.0,9600.0,1700.0,11900.0,1900.0,6800.0
+B001284,Susan,Brooks,rep,IN,5.0,Republican,SusanWBrooks,Indiana,Susan W. Brooks (IN-5),(IN-5),24200.0,16300.0,1800.0,6200.0,1100.0,7200.0,1500.0,7900.0
+M001189,Luke,Messer,rep,IN,6.0,Republican,RepLukeMesser,Indiana,Luke Messer (IN-6),(IN-6),28900.0,22900.0,2700.0,9100.0,1600.0,9400.0,2300.0,6100.0
+B001282,Garland,Barr,rep,KY,6.0,Republican,RepAndyBarr,Kentucky,Andy Barr (KY-6),(KY-6),38300.0,32200.0,2200.0,9300.0,2700.0,17900.0,2300.0,6200.0
+W000817,Elizabeth,Warren,sen,MA,,Democrat,SenWarren,Massachusetts,,,285300.0,259800.0,64100.0,65500.0,40900.0,89500.0,37200.0,25200.0
+K000379,Joseph,Kennedy,rep,MA,4.0,Democrat,RepJoeKennedy,Massachusetts,"Joseph P. Kennedy, III (MA-4)",(MA-4),20300.0,17500.0,4300.0,4400.0,2700.0,6100.0,3200.0,2800.0
+D000620,John,Delaney,rep,MD,6.0,Democrat,RepJohnDelaney,Maryland,John K. Delaney (MD-6),(MD-6),27700.0,18600.0,4500.0,7200.0,1200.0,5700.0,1600.0,9100.0
+K000383,Angus,King,sen,ME,,Independent,SenAngusKing,Maine,,,117900.0,62400.0,12400.0,16900.0,5100.0,28100.0,6400.0,55400.0
+K000380,Daniel,Kildee,rep,MI,5.0,Democrat,RepDanKildee,Michigan,Daniel T. Kildee (MI-5),(MI-5),40600.0,34500.0,5500.0,15400.0,3300.0,10300.0,2500.0,6100.0
+N000127,Richard,Nolan,rep,MN,8.0,Democrat,USRepRickNolan,Minnesota,Richard M. Nolan (MN-8),(MN-8),29600.0,18700.0,5300.0,6900.0,1400.0,5200.0,2600.0,10800.0
+W000812,Ann,Wagner,rep,MO,2.0,Republican,RepAnnWagner,Missouri,Ann Wagner (MO-2),(MO-2),37500.0,13800.0,600.0,3300.0,700.0,9200.0,1200.0,23700.0
+D000618,Steve,Daines,sen,MT,,Republican,SteveDaines,Montana,,,81100.0,28500.0,2600.0,13000.0,2300.0,10600.0,1900.0,52700.0
+H001067,Richard,Hudson,rep,NC,8.0,Republican,RepRichHudson,North Carolina,Richard Hudson (NC-8),(NC-8),95000.0,48300.0,2300.0,11600.0,2300.0,32000.0,2300.0,46700.0
+P000606,Robert,Pittenger,rep,NC,9.0,Republican,RepPittenger,North Carolina,Robert Pittenger (NC-9),(NC-9),110000.0,53400.0,2600.0,13000.0,2600.0,35100.0,2400.0,56600.0
+M001187,Mark,Meadows,rep,NC,11.0,Republican,RepMarkMeadows,North Carolina,Mark Meadows (NC-11),(NC-11),107800.0,49900.0,2300.0,11500.0,2300.0,33800.0,3000.0,57900.0
+H001065,George,Holding,rep,NC,2.0,Republican,RepHolding,North Carolina,George Holding (NC-2),(NC-2),97400.0,44800.0,2100.0,10600.0,2100.0,29900.0,2200.0,52600.0
+H001069,Heidi,Heitkamp,sen,ND,,Democrat,SenatorHeitkamp,North Dakota,,,25100.0,12600.0,1600.0,5600.0,900.0,4400.0,1400.0,12500.0
+C001096,Kevin,Cramer,rep,ND,0.0,Republican,RepKevinCramer,North Dakota,Kevin Cramer (ND-AL),(ND-AL),25100.0,12600.0,1600.0,5600.0,900.0,4400.0,1400.0,12500.0
+F000463,Deb,Fischer,sen,NE,,Republican,SenatorFischer,Nebraska,,,173100.0,81200.0,4800.0,20000.0,3700.0,52800.0,4400.0,91900.0
+K000382,Ann,Kuster,rep,NH,2.0,Democrat,RepAnnieKuster,New Hampshire,Ann M. Kuster (NH-2),(NH-2),22700.0,15300.0,1200.0,6800.0,1200.0,6100.0,1300.0,7400.0
+L000580,Michelle,Lujan Grisham,rep,NM,1.0,Democrat,RepLujanGrisham,New Mexico,Michelle Lujan Grisham (NM-1),(NM-1),40900.0,35400.0,4200.0,14200.0,1600.0,15400.0,1700.0,5500.0
+M001188,Grace,Meng,rep,NY,6.0,Democrat,RepGraceMeng,New York,Grace Meng (NY-6),(NY-6),47900.0,39600.0,7900.0,7500.0,1700.0,22400.0,5400.0,8300.0
+J000294,Hakeem,Jeffries,rep,NY,8.0,Democrat,RepJeffries,New York,Hakeem S. Jeffries (NY-8),(NY-8),56100.0,48800.0,13800.0,13000.0,2900.0,19100.0,7100.0,7300.0
+M001185,Sean,Maloney,rep,NY,18.0,Democrat,RepSeanMaloney,New York,Sean Patrick Maloney (NY-18),(NY-18),29200.0,25400.0,6400.0,6000.0,1300.0,11600.0,2300.0,3800.0
+C001092,Chris,Collins,rep,NY,27.0,Republican,RepChrisCollins,New York,Chris Collins (NY-27),(NY-27),23600.0,20400.0,5400.0,5100.0,1100.0,8800.0,2500.0,3200.0
+W000815,Brad,Wenstrup,rep,OH,2.0,Republican,RepBradWenstrup,Ohio,Brad R. Wenstrup (OH-2),(OH-2),29500.0,24600.0,4600.0,8800.0,1700.0,9400.0,1800.0,4900.0
+B001281,Joyce,Beatty,rep,OH,3.0,Democrat,RepBeatty,Ohio,Joyce Beatty (OH-3),(OH-3),42000.0,37100.0,6700.0,12800.0,2500.0,15100.0,2000.0,4900.0
+J000295,David,Joyce,rep,OH,14.0,Republican,RepDaveJoyce,Ohio,David P. Joyce (OH-14),(OH-14),20900.0,15500.0,2700.0,5100.0,1000.0,6600.0,1800.0,5400.0
+B001283,Jim,Bridenstine,rep,OK,1.0,Republican,RepJBridenstine,Oklahoma,Jim Bridenstine (OK-1),(OK-1),78200.0,44700.0,2700.0,10900.0,1800.0,29300.0,1700.0,33500.0
+M001190,Markwayne,Mullin,rep,OK,2.0,Republican,RepMullin,Oklahoma,Markwayne Mullin (OK-2),(OK-2),84600.0,57800.0,3500.0,13900.0,2300.0,38200.0,3600.0,26800.0
+P000605,Scott,Perry,rep,PA,4.0,Republican,RepScottPerry,Pennsylvania,Scott Perry (PA-4),(PA-4),38400.0,21600.0,2000.0,6900.0,2900.0,9700.0,2400.0,16900.0
+R000598,Keith,Rothfus,rep,PA,12.0,Republican,KeithRothfus,Pennsylvania,Keith J. Rothfus (PA-12),(PA-12),32200.0,16600.0,1800.0,6300.0,2600.0,5800.0,3500.0,15600.0
+C001090,Matthew,Cartwright,rep,PA,17.0,Democrat,RepCartwright,Pennsylvania,Matt Cartwright (PA-17),(PA-17),42100.0,24600.0,2500.0,8800.0,3700.0,9700.0,3400.0,17500.0
+R000597,Tom,Rice,rep,SC,7.0,Republican,RepTomRice,South Carolina,Tom Rice (SC-7),(SC-7),79600.0,53200.0,2800.0,12900.0,2400.0,35100.0,3000.0,26500.0
+C001098,Ted,Cruz,sen,TX,,Republican,SenTedCruz,Texas,,,2430600.0,1890400.0,43400.0,446700.0,60800.0,1339200.0,65700.0,540200.0
+W000814,Randy,Weber,rep,TX,14.0,Republican,TXRandy14,Texas,"Randy K. Weber, Sr. (TX-14)",(TX-14),59500.0,47400.0,1100.0,11200.0,1500.0,33600.0,1600.0,12100.0
+O000170,Beto,O’Rourke,rep,TX,16.0,Democrat,RepBetoORourke,Texas,Beto O'Rourke (TX-16),(TX-16),88500.0,65800.0,1400.0,14800.0,2000.0,47500.0,3800.0,22700.0
+C001091,Joaquin,Castro,rep,TX,20.0,Democrat,JoaquinCastrotx,Texas,Joaquin Castro (TX-20),(TX-20),76100.0,60400.0,1500.0,15400.0,2100.0,41400.0,2400.0,15600.0
+W000816,Roger,Williams,rep,TX,25.0,Republican,RepRWilliams,Texas,Roger Williams (TX-25),(TX-25),45300.0,30500.0,700.0,7500.0,1000.0,21200.0,1200.0,14800.0
+V000131,Marc,Veasey,rep,TX,33.0,Democrat,RepVeasey,Texas,Marc A. Veasey (TX-33),(TX-33),112900.0,96700.0,2100.0,21600.0,2900.0,70100.0,1900.0,16100.0
+V000132,Filemon,Vela,rep,TX,34.0,Democrat,RepFilemonVela,Texas,Filemon Vela (TX-34),(TX-34),99700.0,86100.0,1800.0,18400.0,2500.0,63500.0,3600.0,13500.0
+S001192,Chris,Stewart,rep,UT,2.0,Republican,RepChrisStewart,Utah,Chris Stewart (UT-2),(UT-2),51000.0,33900.0,2500.0,7200.0,1100.0,23200.0,1300.0,17100.0
+K000384,Timothy,Kaine,sen,VA,,Democrat,SenKaineOffice,Virginia,,,521800.0,329400.0,17500.0,75400.0,13500.0,222900.0,17000.0,192300.0
+K000381,Derek,Kilmer,rep,WA,6.0,Democrat,RepDerekKilmer,Washington,Derek Kilmer (WA-6),(WA-6),29400.0,26300.0,1600.0,9300.0,1500.0,13900.0,1900.0,3100.0
+H001064,Denny,Heck,rep,WA,10.0,Democrat,RepDennyHeck,Washington,Denny Heck (WA-10),(WA-10),27800.0,25100.0,1700.0,10200.0,1600.0,11500.0,2000.0,2700.0
+P000607,Mark,Pocan,rep,WI,2.0,Democrat,RepMarkPocan,Wisconsin,Mark Pocan (WI-2),(WI-2),43600.0,27600.0,4200.0,6300.0,1500.0,15600.0,2400.0,15900.0
+K000385,Robin,Kelly,rep,IL,2.0,Democrat,RepRobinKelly,Illinois,Robin L. Kelly (IL-2),(IL-2),45600.0,33600.0,6700.0,14200.0,1800.0,10900.0,3300.0,12000.0
+S000051,Marshall,Sanford,rep,SC,1.0,Republican,RepSanfordSC,South Carolina,Mark Sanford (SC-1),(SC-1),58600.0,34200.0,1500.0,7100.0,1300.0,24200.0,1800.0,24400.0
+S001195,Jason,Smith,rep,MO,8.0,Republican,RepJasonSmith,Missouri,Jason Smith (MO-8),(MO-8),62900.0,45300.0,2500.0,13400.0,3000.0,26300.0,4000.0,17700.0
+B001288,Cory,Booker,sen,NJ,,Democrat,senbookeroffice,New Jersey,,,418300.0,267800.0,22700.0,102900.0,20600.0,121500.0,26000.0,150200.0
+C001101,Katherine,Clark,rep,MA,5.0,Democrat,RepKClark,Massachusetts,Katherine M. Clark (MA-5),(MA-5),22500.0,19600.0,4300.0,4400.0,2700.0,8300.0,3600.0,2800.0
+B001289,Bradley,Byrne,rep,AL,1.0,Republican,RepByrne,Alabama,Bradley Byrne (AL-1),(AL-1),76900.0,46800.0,1000.0,12400.0,2600.0,30800.0,2100.0,30100.0
+B001290,David,Brat,rep,VA,7.0,Republican,RepDaveBrat,Virginia,Dave Brat (VA-7),(VA-7),45300.0,26200.0,1500.0,6400.0,1100.0,17100.0,1400.0,19100.0
+N000188,Donald,Norcross,rep,NJ,1.0,Democrat,DonaldNorcross,New Jersey,Donald Norcross (NJ-1),(NJ-1),35700.0,24000.0,2400.0,10900.0,2200.0,8500.0,2300.0,11600.0
+A000370,Alma,Adams,rep,NC,12.0,Democrat,RepAdams,North Carolina,Alma S. Adams (NC-12),(NC-12),117900.0,44500.0,2100.0,10400.0,2100.0,29900.0,1700.0,73400.0
+P000609,Gary,Palmer,rep,AL,6.0,Republican,USRepGaryPalmer,Alabama,Gary J. Palmer (AL-6),(AL-6),54000.0,29400.0,600.0,7700.0,1600.0,19400.0,1300.0,24500.0
+H001072,French,Hill,rep,AR,2.0,Republican,RepFrenchHill,Arkansas,J. French Hill (AR-2),(AR-2),37500.0,30500.0,1000.0,12800.0,3000.0,13800.0,2200.0,7000.0
+W000821,Bruce,Westerman,rep,AR,4.0,Republican,RepWesterman,Arkansas,Bruce Westerman (AR-4),(AR-4),45000.0,38600.0,1200.0,15500.0,3600.0,18400.0,3200.0,6400.0
+M001197,Martha,McSally,rep,AZ,2.0,Republican,RepMcSally,Arizona,Martha McSally (AZ-2),(AZ-2),45100.0,22300.0,4700.0,8000.0,1200.0,8400.0,2000.0,22800.0
+G000574,Ruben,Gallego,rep,AZ,7.0,Democrat,RepRubenGallego,Arizona,Ruben Gallego (AZ-7),(AZ-7),82800.0,57900.0,11100.0,18800.0,2700.0,25300.0,1700.0,24900.0
+D000623,Mark,DeSaulnier,rep,CA,11.0,Democrat,RepDeSaulnier,California,Mark DeSaulnier (CA-11),(CA-11),38600.0,25400.0,4100.0,8200.0,1600.0,11400.0,3000.0,13200.0
+K000387,Steve,Knight,rep,CA,25.0,Republican,SteveKnight25,California,Stephen Knight (CA-25),(CA-25),42800.0,27100.0,4600.0,9100.0,1800.0,11600.0,2300.0,15700.0
+A000371,Pete,Aguilar,rep,CA,31.0,Democrat,reppeteaguilar,California,Pete Aguilar (CA-31),(CA-31),53200.0,40500.0,6500.0,12800.0,2600.0,18700.0,3400.0,12700.0
+L000582,Ted,Lieu,rep,CA,33.0,Democrat,RepTedLieu,California,Ted Lieu (CA-33),(CA-33),26600.0,10900.0,1400.0,2800.0,600.0,6200.0,2700.0,15700.0
+T000474,Norma,Torres,rep,CA,35.0,Democrat,NormaJTorres,California,Norma J. Torres (CA-35),(CA-35),56100.0,42800.0,6900.0,13600.0,2700.0,19500.0,3100.0,13300.0
+W000820,Mimi,Walters,rep,CA,45.0,Republican,RepMimiWalters,California,Mimi Walters (CA-45),(CA-45),28600.0,12200.0,1900.0,3800.0,800.0,5800.0,2900.0,16400.0
+B001297,Ken,Buck,rep,CO,4.0,Republican,RepKenBuck,Colorado,Ken Buck (CO-4),(CO-4),31500.0,24600.0,3000.0,8500.0,1300.0,11700.0,1600.0,6900.0
+C001107,Carlos,Curbelo,rep,FL,26.0,Republican,RepCurbelo,Florida,Carlos Curbelo (FL-26),(FL-26),104700.0,55400.0,3000.0,11000.0,1800.0,39600.0,4400.0,49400.0
+C001103,Buddy,Carter,rep,GA,1.0,Republican,RepBuddyCarter,Georgia,"Earl L. ""Buddy"" Carter (GA-1)",(GA-1),64800.0,47200.0,1900.0,10600.0,1800.0,32800.0,1700.0,17500.0
+H001071,Jody,Hice,rep,GA,10.0,Republican,congressmanhice,Georgia,Jody B. Hice (GA-10),(GA-10),59200.0,43200.0,1700.0,9400.0,1600.0,30500.0,2000.0,16000.0
+L000583,Barry,Loudermilk,rep,GA,11.0,Republican,RepLoudermilk,Georgia,Barry Loudermilk (GA-11),(GA-11),64900.0,43900.0,1300.0,7400.0,1300.0,33900.0,900.0,21000.0
+A000372,Rick,Allen,rep,GA,12.0,Republican,reprickallen,Georgia,Rick W. Allen (GA-12),(GA-12),72900.0,57500.0,2400.0,13200.0,2300.0,39600.0,2000.0,15400.0
+B001294,Rod,Blum,rep,IA,1.0,Republican,RepRodBlum,Iowa,Rod Blum (IA-1),(IA-1),30100.0,21800.0,4300.0,8400.0,1700.0,7400.0,2000.0,8300.0
+Y000066,David,Young,rep,IA,3.0,Republican,RepDavidYoung,Iowa,David Young (IA-3),(IA-3),33500.0,23900.0,4700.0,9200.0,1900.0,8200.0,1900.0,9600.0
+B001295,Mike,Bost,rep,IL,12.0,Republican,RepBost,Illinois,Mike Bost (IL-12),(IL-12),35500.0,26000.0,5200.0,11100.0,1400.0,8400.0,2500.0,9500.0
+A000374,Ralph,Abraham,rep,LA,5.0,Republican,RepAbraham,Louisiana,Ralph Lee Abraham (LA-5),(LA-5),58500.0,35100.0,5900.0,12600.0,3100.0,13400.0,4600.0,23400.0
+G000577,Garret,Graves,rep,LA,6.0,Republican,RepGarretGraves,Louisiana,Garret Graves (LA-6),(LA-6),48000.0,23800.0,4200.0,8800.0,2200.0,8600.0,2400.0,24200.0
+M001196,Seth,Moulton,rep,MA,6.0,Democrat,teammoulton,Massachusetts,Seth Moulton (MA-6),(MA-6),26300.0,23500.0,5800.0,5900.0,3700.0,8100.0,4000.0,2800.0
+P000611,Bruce,Poliquin,rep,ME,2.0,Republican,RepPoliquin,Maine,Bruce Poliquin (ME-2),(ME-2),62000.0,35400.0,7300.0,9900.0,3000.0,15200.0,3900.0,26500.0
+M001194,John,Moolenaar,rep,MI,4.0,Republican,RepMoolenaar,Michigan,John R. Moolenaar (MI-4),(MI-4),34000.0,27100.0,3700.0,10400.0,2300.0,10800.0,2400.0,6900.0
+B001293,Mike,Bishop,rep,MI,8.0,Republican,RepMikeBishop,Michigan,Mike Bishop (MI-8),(MI-8),26500.0,18000.0,2700.0,7600.0,1600.0,6000.0,1500.0,8500.0
+T000475,Dave,Trott,rep,MI,11.0,Republican,repdavetrott,Michigan,David A. Trott (MI-11),(MI-11),20300.0,11700.0,1500.0,4300.0,900.0,4900.0,1700.0,8600.0
+D000624,Debbie,Dingell,rep,MI,12.0,Democrat,RepDebDingell,Michigan,Debbie Dingell (MI-12),(MI-12),31500.0,24600.0,3600.0,10100.0,2200.0,8600.0,1800.0,6900.0
+L000581,Brenda,Lawrence,rep,MI,14.0,Democrat,RepLawrence,Michigan,Brenda L. Lawrence (MI-14),(MI-14),47900.0,40300.0,5400.0,15000.0,3300.0,16600.0,3000.0,7700.0
+E000294,Tom,Emmer,rep,MN,6.0,Republican,RepTomEmmer,Minnesota,Tom Emmer (MN-6),(MN-6),22500.0,12800.0,3700.0,4800.0,1000.0,3400.0,1400.0,9700.0
+R000603,David,Rouzer,rep,NC,7.0,Republican,RepDavidRouzer,North Carolina,David Rouzer (NC-7),(NC-7),109600.0,55300.0,2600.0,12900.0,2600.0,37100.0,2800.0,54400.0
+M001193,Tom,MacArthur,rep,NJ,3.0,Republican,RepTomMacArthur,New Jersey,Thomas MacArthur (NJ-3),(NJ-3),24900.0,13400.0,1300.0,6000.0,1200.0,4800.0,1700.0,11500.0
+W000822,Bonnie,Watson Coleman,rep,NJ,12.0,Democrat,RepBonnie,New Jersey,Bonnie Watson Coleman (NJ-12),(NJ-12),32000.0,20200.0,1500.0,6900.0,1400.0,10300.0,2000.0,11800.0
+Z000017,Lee,Zeldin,rep,NY,1.0,Republican,RepLeeZeldin,New York,Lee M. Zeldin (NY-1),(NY-1),24000.0,18700.0,4400.0,4100.0,900.0,9300.0,2000.0,5300.0
+R000602,Kathleen,Rice,rep,NY,4.0,Democrat,RepKathleenRice,New York,Kathleen M. Rice (NY-4),(NY-4),26800.0,21700.0,4500.0,4300.0,1000.0,12000.0,2900.0,5100.0
+S001196,Elise,Stefanik,rep,NY,21.0,Republican,RepStefanik,New York,Elise M. Stefanik (NY-21),(NY-21),34300.0,31000.0,8100.0,7600.0,1700.0,13600.0,2500.0,3300.0
+K000386,John,Katko,rep,NY,24.0,Republican,RepJohnKatko,New York,John Katko (NY-24),(NY-24),33700.0,30700.0,7700.0,7300.0,1600.0,14000.0,2200.0,3100.0
+R000604,Steve,Russell,rep,OK,5.0,Republican,RepRussell,Oklahoma,Steve Russell (OK-5),(OK-5),91700.0,55100.0,3100.0,12500.0,2100.0,37500.0,2300.0,36600.0
+C001106,Ryan,Costello,rep,PA,6.0,Republican,RepRyanCostello,Pennsylvania,Ryan A. Costello (PA-6),(PA-6),34000.0,13400.0,1400.0,5000.0,2100.0,5000.0,2200.0,20500.0
+B001296,Brendan,Boyle,rep,PA,13.0,Democrat,CongBoyle,Pennsylvania,Brendan F. Boyle (PA-13),(PA-13),48500.0,26400.0,2500.0,8900.0,3700.0,11200.0,3600.0,22100.0
+R000601,John,Ratcliffe,rep,TX,4.0,Republican,RepRatcliffe,Texas,John Ratcliffe (TX-4),(TX-4),57900.0,46600.0,1100.0,11100.0,1500.0,32900.0,2000.0,11300.0
+H001073,Will,Hurd,rep,TX,23.0,Republican,hurdonthehill,Texas,Will Hurd (TX-23),(TX-23),74600.0,58900.0,1400.0,14500.0,2000.0,41000.0,3000.0,15700.0
+B001291,Brian,Babin,rep,TX,36.0,Republican,RepBrianBabin,Texas,Brian Babin (TX-36),(TX-36),58500.0,45100.0,1000.0,10700.0,1500.0,31800.0,1600.0,13400.0
+L000584,Mia,Love,rep,UT,4.0,Republican,repmialove,Utah,Mia B. Love (UT-4),(UT-4),50000.0,33100.0,2300.0,6900.0,1000.0,22900.0,900.0,16900.0
+B001292,Donald,Beyer,rep,VA,8.0,Democrat,repdonbeyer,Virginia,"Donald S. Beyer, Jr. (VA-8)",(VA-8),39400.0,18800.0,900.0,3800.0,700.0,13500.0,1100.0,20600.0
+C001105,Barbara,Comstock,rep,VA,10.0,Republican,RepComstock,Virginia,Barbara Comstock (VA-10),(VA-10),38600.0,18400.0,1000.0,4300.0,800.0,12400.0,1100.0,20200.0
+P000610,Stacey,Plaskett,rep,VI,0.0,Democrat,staceyplaskett,,,,,,,,,,,
+N000189,Dan,Newhouse,rep,WA,4.0,Republican,RepNewhouse,Washington,Dan Newhouse (WA-4),(WA-4),43700.0,41300.0,2500.0,14800.0,2400.0,21600.0,1900.0,2500.0
+G000576,Glenn,Grothman,rep,WI,6.0,Republican,RepGrothman,Wisconsin,Glenn Grothman (WI-6),(WI-6),40600.0,22500.0,4200.0,6300.0,1600.0,10400.0,2800.0,18100.0
+M001195,Alex,Mooney,rep,WV,2.0,Republican,RepAlexMooney,West Virginia,Alexander X. Mooney (WV-2),(WV-2),38300.0,26100.0,2000.0,8200.0,2900.0,13000.0,2400.0,12300.0
+J000297,Evan,Jenkins,rep,WV,3.0,Republican,RepEvanJenkins,West Virginia,Evan H. Jenkins (WV-3),(WV-3),43700.0,33100.0,2600.0,11100.0,3900.0,15500.0,3200.0,10600.0
+R000600,Aumua,Amata,rep,AS,0.0,Republican,RepAmata,,,,,,,,,,,
+S001198,Dan,Sullivan,sen,AK,,Republican,SenDanSullivan,Alaska,,,64500.0,17200.0,3600.0,8900.0,1400.0,3300.0,2000.0,47300.0
+P000612,David,Perdue,sen,GA,,Republican,sendavidperdue,Georgia,,,963200.0,701600.0,27300.0,149200.0,25500.0,499500.0,24300.0,261400.0
+E000295,Joni,Ernst,sen,IA,,Republican,SenJoniErnst,Iowa,,,127900.0,93700.0,17900.0,35000.0,7200.0,33700.0,7900.0,34300.0
+T000476,Thom,Tillis,sen,NC,,Republican,senthomtillis,North Carolina,,,1348300.0,638900.0,29900.0,148900.0,29900.0,429700.0,32500.0,709500.0
+R000605,Mike,Rounds,sen,SD,,Republican,SenatorRounds,South Dakota,,,63700.0,39500.0,2500.0,10900.0,1600.0,24500.0,1800.0,24300.0
+W000819,Mark,Walker,rep,NC,6.0,Republican,RepMarkWalker,North Carolina,Mark Walker (NC-6),(NC-6),102200.0,51700.0,2400.0,12000.0,2400.0,34900.0,2600.0,50500.0
+S001197,Benjamin,Sasse,sen,NE,,Republican,SenSasse,Nebraska,,,173100.0,81200.0,4800.0,20000.0,3700.0,52800.0,4400.0,91900.0
+D000625,Daniel,Donovan,rep,NY,11.0,Republican,RepDanDonovan,New York,"Daniel M. Donovan, Jr. (NY-11)",(NY-11),39800.0,34700.0,9200.0,8700.0,1900.0,14900.0,4200.0,5100.0
+K000388,Trent,Kelly,rep,MS,1.0,Republican,reptrentkelly,Mississippi,Trent Kelly (MS-1),(MS-1),65500.0,56200.0,2300.0,13900.0,3200.0,36700.0,2900.0,9300.0
+L000585,Darin,LaHood,rep,IL,18.0,Republican,RepLaHood,Illinois,Darin LaHood (IL-18),(IL-18),25300.0,15800.0,3500.0,7400.0,900.0,4000.0,1900.0,9400.0
+D000626,Warren,Davidson,rep,OH,8.0,Republican,WarrenDavidson,Ohio,Warren Davidson (OH-8),(OH-8),26800.0,22400.0,4300.0,8200.0,1600.0,8300.0,1900.0,4500.0
+H001050,Colleen,Hanabusa,rep,HI,1.0,Democrat,RepHanabusa,Hawaii,Colleen Hanabusa (HI-1),(HI-1),23000.0,20000.0,4200.0,5400.0,1200.0,9200.0,3100.0,3000.0
+C001108,James,Comer,rep,KY,1.0,Republican,,Kentucky,James Comer (KY-1),(KY-1),40600.0,34700.0,2500.0,10400.0,3100.0,18700.0,3100.0,5900.0
+E000296,Dwight,Evans,rep,PA,2.0,Democrat,RepDwightEvans,Pennsylvania,Dwight Evans (PA-2),(PA-2),58200.0,37800.0,4000.0,14200.0,5900.0,13700.0,5100.0,20400.0
+H001075,Kamala,Harris,sen,CA,,Democrat,SenKamalaHarris,California,,,2483000.0,1714800.0,271000.0,536200.0,107300.0,800900.0,187600.0,767900.0
+K000393,John,Kennedy,sen,LA,,Republican,SenJohnKennedy,Louisiana,,,343000.0,188800.0,32900.0,69700.0,17100.0,69000.0,23600.0,154200.0
+H001076,Margaret,Hassan,sen,NH,,Democrat,Senatorhassan,New Hampshire,,,45500.0,29900.0,2400.0,13200.0,2300.0,12000.0,2400.0,15600.0
+C001113,Catherine,Cortez Masto,sen,NV,,Democrat,sencortezmasto,Nevada,,,122500.0,87300.0,7900.0,29800.0,3500.0,46100.0,3900.0,35500.0
+S001190,Bradley,Schneider,rep,IL,10.0,Democrat,repschneider,Illinois,Bradley Scott Schneider (IL-10),(IL-10),32700.0,18800.0,3700.0,7800.0,1000.0,6400.0,1700.0,13900.0
+S001170,Carol,Shea-Porter,rep,NH,1.0,Democrat,repsheaporter,New Hampshire,Carol Shea-Porter (NH-1),(NH-1),22800.0,14600.0,1200.0,6400.0,1100.0,5900.0,1100.0,8200.0
+O000171,Tom,O’Halleran,rep,AZ,1.0,Democrat,repohalleran,Arizona,Tom O'Halleran (AZ-1),(AZ-1),49900.0,30700.0,7100.0,12100.0,1700.0,9700.0,2600.0,19300.0
+B001302,Andy,Biggs,rep,AZ,5.0,Republican,RepAndyBiggsAZ,Arizona,Andy Biggs (AZ-5),(AZ-5),39500.0,14600.0,3200.0,5400.0,800.0,5300.0,1500.0,24900.0
+K000389,Ro,Khanna,rep,CA,17.0,Democrat,RepRoKhanna,California,Ro Khanna (CA-17),(CA-17),27600.0,14000.0,2600.0,5100.0,1000.0,5400.0,4200.0,13600.0
+P000613,Jimmy,Panetta,rep,CA,20.0,Democrat,RepJimmyPanetta,California,Jimmy Panetta (CA-20),(CA-20),48800.0,34300.0,5300.0,10500.0,2100.0,16400.0,2700.0,14500.0
+C001112,Salud,Carbajal,rep,CA,24.0,Democrat,RepCarbajal,California,Salud O. Carbajal (CA-24),(CA-24),40000.0,25100.0,3900.0,7800.0,1600.0,11800.0,2300.0,14900.0
+B001300,Nanette,Barragán,rep,CA,44.0,Democrat,RepBarragan,California,Nanette Diaz Barragán (CA-44),(CA-44),65500.0,49900.0,7900.0,15600.0,3100.0,23300.0,4300.0,15700.0
+C001110,J.,Correa,rep,CA,46.0,Democrat,reploucorrea,California,J. Luis Correa (CA-46),(CA-46),64300.0,47900.0,6800.0,13400.0,2700.0,25100.0,3200.0,16400.0
+B001303,Lisa,Blunt Rochester,rep,DE,0.0,Democrat,RepBRochester,Delaware,Lisa Blunt Rochester (DE-AL),(DE-AL),59500.0,37500.0,9800.0,11100.0,1500.0,15100.0,1800.0,22000.0
+G000578,Matt,Gaetz,rep,FL,1.0,Republican,RepMattGaetz,Florida,Matt Gaetz (FL-1),(FL-1),57600.0,41000.0,2600.0,9300.0,1500.0,27600.0,1200.0,16600.0
+D000628,Neal,Dunn,rep,FL,2.0,Republican,drnealdunnfl2,Florida,Neal P. Dunn (FL-2),(FL-2),66300.0,49500.0,3100.0,11000.0,1800.0,33600.0,1800.0,16800.0
+R000609,John,Rutherford,rep,FL,4.0,Republican,RepRutherfordFL,Florida,John H. Rutherford (FL-4),(FL-4),64200.0,42900.0,2700.0,9700.0,1600.0,29000.0,1400.0,21300.0
+L000586,Al,Lawson,rep,FL,5.0,Democrat,RepAlLawsonJr,Florida,"Al Lawson, Jr. (FL-5)",(FL-5),67800.0,49600.0,2900.0,10600.0,1700.0,34400.0,1500.0,18100.0
+M001202,Stephanie,Murphy,rep,FL,7.0,Democrat,RepStephMurphy,Florida,Stephanie N. Murphy (FL-7),(FL-7),72600.0,41600.0,2400.0,8500.0,1400.0,29400.0,1400.0,31000.0
+S001200,Darren,Soto,rep,FL,9.0,Democrat,RepDarrenSoto,Florida,Darren Soto (FL-9),(FL-9),89400.0,57600.0,3500.0,12700.0,2000.0,39300.0,1900.0,31800.0
+D000627,Val,Demings,rep,FL,10.0,Democrat,RepValDemings,Florida,Val Butler Demings (FL-10),(FL-10),85200.0,50700.0,2900.0,10400.0,1700.0,35800.0,1600.0,34500.0
+C001111,Charlie,Crist,rep,FL,13.0,Democrat,repcharliecrist,Florida,Charlie Crist (FL-13),(FL-13),63800.0,40200.0,2300.0,8300.0,1300.0,28200.0,2000.0,23600.0
+M001199,Brian,Mast,rep,FL,18.0,Republican,repbrianmast,Florida,Brian J. Mast (FL-18),(FL-18),76300.0,44200.0,2600.0,9400.0,1500.0,30700.0,2000.0,32000.0
+R000607,Francis,Rooney,rep,FL,19.0,Republican,RepRooney,Florida,Francis Rooney (FL-19),(FL-19),72500.0,45700.0,2600.0,9200.0,1500.0,32400.0,2000.0,26800.0
+F000465,A.,Ferguson,rep,GA,3.0,Republican,RepDrewFerguson,Georgia,"A. Drew Ferguson, IV (GA-3)",(GA-3),57900.0,42100.0,1900.0,10600.0,1800.0,27700.0,1700.0,15800.0
+K000391,Raja,Krishnamoorthi,rep,IL,8.0,Democrat,congressmanraja,Illinois,Raja Krishnamoorthi (IL-8),(IL-8),37600.0,23800.0,4700.0,9900.0,1200.0,8000.0,2000.0,13800.0
+B001299,Jim,Banks,rep,IN,3.0,Republican,RepJimBanks,Indiana,Jim Banks (IN-3),(IN-3),29600.0,23300.0,2700.0,9000.0,1600.0,9900.0,1500.0,6300.0
+H001074,Trey,Hollingsworth,rep,IN,9.0,Republican,reptrey,Indiana,Trey Hollingsworth (IN-9),(IN-9),25800.0,19000.0,2400.0,7900.0,1400.0,7300.0,1800.0,6700.0
+M001198,Roger,Marshall,rep,KS,1.0,Republican,RepMarshall,Kansas,Roger W. Marshall (KS-1),(KS-1),46200.0,32800.0,1500.0,8500.0,1500.0,21200.0,1600.0,13500.0
+H001077,Clay,Higgins,rep,LA,3.0,Republican,RepClayHiggins,Louisiana,Clay Higgins (LA-3),(LA-3),52700.0,30200.0,5300.0,11200.0,2700.0,11000.0,3600.0,22500.0
+J000299,Mike,Johnson,rep,LA,4.0,Republican,RepMikeJohnson,Louisiana,Mike Johnson (LA-4),(LA-4),54600.0,33800.0,5800.0,12300.0,3000.0,12600.0,4800.0,20800.0
+B001304,Anthony,Brown,rep,MD,4.0,Democrat,RepAnthonyBrown,Maryland,Anthony G. Brown (MD-4),(MD-4),32600.0,25000.0,5200.0,8300.0,1400.0,10200.0,1500.0,7600.0
+R000606,Jamie,Raskin,rep,MD,8.0,Democrat,repraskin,Maryland,Jamie Raskin (MD-8),(MD-8),25000.0,15100.0,3000.0,4900.0,800.0,6400.0,1500.0,9900.0
+B001301,Jack,Bergman,rep,MI,1.0,Republican,RepJackBergman,Michigan,Jack Bergman (MI-1),(MI-1),36500.0,25600.0,3400.0,9400.0,2100.0,10700.0,2900.0,10900.0
+M001201,Paul,Mitchell,rep,MI,10.0,Republican,RepPaulMitchell,Michigan,Paul Mitchell (MI-10),(MI-10),31000.0,21500.0,2900.0,8100.0,1800.0,8700.0,2500.0,9500.0
+L000587,Jason,Lewis,rep,MN,2.0,Republican,RepJasonLewis,Minnesota,Jason Lewis (MN-2),(MN-2),22600.0,12800.0,3200.0,4100.0,800.0,4600.0,1500.0,9800.0
+B001305,Ted,Budd,rep,NC,13.0,Republican,RepTedBudd,North Carolina,Ted Budd (NC-13),(NC-13),104200.0,47100.0,2300.0,11300.0,2300.0,31300.0,2100.0,57100.0
+B001298,Don,Bacon,rep,NE,2.0,Republican,repdonbacon,Nebraska,Don Bacon (NE-2),(NE-2),53400.0,27400.0,1700.0,7000.0,1300.0,17500.0,1100.0,25900.0
+G000583,Josh,Gottheimer,rep,NJ,5.0,Democrat,RepJoshG,New Jersey,Josh Gottheimer (NJ-5),(NJ-5),27500.0,12700.0,1000.0,4500.0,900.0,6300.0,1900.0,14700.0
+R000608,Jacky,Rosen,rep,NV,3.0,Democrat,repjackyrosen,Nevada,Jacky Rosen (NV-3),(NV-3),20900.0,12400.0,1100.0,4300.0,500.0,6500.0,900.0,8600.0
+K000390,Ruben,Kihuen,rep,NV,4.0,Democrat,RepKihuen,Nevada,Ruben J. Kihuen (NV-4),(NV-4),31300.0,23000.0,2300.0,8600.0,1000.0,11100.0,900.0,8300.0
+S001201,Thomas,Suozzi,rep,NY,3.0,Democrat,RepTomSuozzi,New York,Thomas R. Suozzi (NY-3),(NY-3),20000.0,14400.0,2600.0,2400.0,500.0,8900.0,2800.0,5700.0
+E000297,Adriano,Espaillat,rep,NY,13.0,Democrat,RepEspaillat,New York,Adriano Espaillat (NY-13),(NY-13),76800.0,71400.0,18000.0,17000.0,3800.0,32500.0,7800.0,5400.0
+F000464,John,Faso,rep,NY,19.0,Republican,RepJohnFaso,New York,John J. Faso (NY-19),(NY-19),31000.0,27300.0,6100.0,5800.0,1300.0,14100.0,2900.0,3800.0
+T000478,Claudia,Tenney,rep,NY,22.0,Republican,RepTenney,New York,Claudia Tenney (NY-22),(NY-22),34600.0,31600.0,9300.0,8800.0,2000.0,11700.0,2900.0,3000.0
+F000466,Brian,Fitzpatrick,rep,PA,8.0,Republican,repbrianfitz,Pennsylvania,Brian K. Fitzpatrick (PA-8),(PA-8),37900.0,12000.0,1200.0,4400.0,1900.0,4500.0,2200.0,25800.0
+S001199,Lloyd,Smucker,rep,PA,16.0,Republican,RepSmucker,Pennsylvania,Lloyd Smucker (PA-16),(PA-16),43200.0,25300.0,2600.0,9300.0,3900.0,9600.0,2300.0,17900.0
+G000582,Jenniffer,González-Colón,rep,PR,0.0,Republican,repjenniffer,,,,,,,,,,,
+K000392,David,Kustoff,rep,TN,8.0,Republican,repdavidkustoff,Tennessee,David Kustoff (TN-8),(TN-8),57700.0,33600.0,3100.0,8600.0,1600.0,20300.0,2000.0,24100.0
+G000581,Vicente,Gonzalez,rep,TX,15.0,Democrat,RepGonzalez,Texas,Vicente Gonzalez (TX-15),(TX-15),105000.0,91600.0,1800.0,18100.0,2500.0,69300.0,3300.0,13400.0
+A000375,Jodey,Arrington,rep,TX,19.0,Republican,RepArrington,Texas,Jodey C. Arrington (TX-19),(TX-19),55200.0,45900.0,1100.0,11600.0,1600.0,31600.0,2100.0,9300.0
+T000477,Scott,Taylor,rep,VA,2.0,Republican,RepScottTaylor,Virginia,Scott Taylor (VA-2),(VA-2),42600.0,27400.0,1400.0,6000.0,1100.0,18900.0,1400.0,15100.0
+M001200,A.,McEachin,rep,VA,4.0,Democrat,RepMcEachin,Virginia,A. Donald McEachin (VA-4),(VA-4),56400.0,39100.0,2100.0,9300.0,1700.0,26000.0,1800.0,17400.0
+G000580,Thomas,Garrett,rep,VA,5.0,Republican,Rep_Tom_Garrett,Virginia,"Thomas A. Garrett, Jr. (VA-5)",(VA-5),54400.0,36700.0,1900.0,8000.0,1400.0,25300.0,2200.0,17700.0
+J000298,Pramila,Jayapal,rep,WA,7.0,Democrat,RepJayapal,Washington,Pramila Jayapal (WA-7),(WA-7),21700.0,17700.0,900.0,5300.0,800.0,10700.0,1700.0,4000.0
+G000579,Mike,Gallagher,rep,WI,8.0,Republican,RepGallagher,Wisconsin,Mike Gallagher (WI-8),(WI-8),47400.0,26200.0,4600.0,7000.0,1700.0,12900.0,2600.0,21200.0
+C001109,Liz,Cheney,rep,WY,0.0,Republican,RepLizCheney,Wyoming,Liz Cheney (WY-AL),(WY-AL),49000.0,23500.0,900.0,5800.0,700.0,16000.0,900.0,25600.0
+S001202,Luther,Strange,sen,AL,,Republican,SenatorStrange,Alabama,,,480500.0,310000.0,6800.0,84300.0,17700.0,200900.0,14600.0,170600.0
+E000298,Ron,Estes,rep,KS,4.0,Republican,RepRonEstes,Kansas,Ron Estes (KS-4),(KS-4),52900.0,38500.0,1800.0,9900.0,1700.0,25100.0,1600.0,14400.0
+G000584,Greg,Gianforte,rep,MT,0.0,Republican,,Montana,Greg Gianforte (MT-AL),(MT-AL),81100.0,28500.0,2600.0,13000.0,2300.0,10600.0,1900.0,52700.0
+N000190,Ralph,Norman,rep,SC,5.0,Republican,,South Carolina,vacant (SC-5),(SC-5),63400.0,43600.0,2400.0,11100.0,2100.0,28000.0,2500.0,19800.0
+H001078,Karen,Handel,rep,GA,6.0,Republican,,Georgia,Karen Handel (GA-6),(GA-6),53600.0,31400.0,900.0,4800.0,800.0,24800.0,1000.0,22200.0
