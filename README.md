@@ -1,4 +1,4 @@
-# GOPlz - a Twitter bot to fight the ACHA
+# GOPlz - a Twitter bot to fight the AHCA
 
 ### Want to start your own bot?
 Create a twitter account, go to [apps.twitter.com](https://apps.twitter.com) to create an app and generate access tokens.
