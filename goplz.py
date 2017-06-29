@@ -1,4 +1,4 @@
-import speedtest, tweepy, os, time, sys, random
+import tweepy, os, time, sys, random
 import pandas as pd
 
 CONSUMER_KEY = os.environ['GOPLZ_CONSUMER_KEY']
@@ -79,7 +79,7 @@ def GOPlz():
 if __name__ == '__main__':
 	while True:
 		GOPlz()
-		min_sleep = random.randrange(1,3)
+		min_sleep = random.randrange(5,10)
 		time.sleep(60*min_sleep)
 
 
