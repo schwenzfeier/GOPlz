@@ -15,11 +15,11 @@ ACCESS_SECRET = os.environ['GOPLZ_ACCESS_SECRET']
 # 5 - elderly_loss
 
 messages = [
-'. @{0}, under the #ACHA, your constituents in {1} are at risk. {2} stand to lose health coverage under the new bill. Vote no!',
-'Hey @{0}, did you know that under the #ACHA {2} people in {1} will lose health care? #SaveOurCare', 
-'. @{0}: Protect American kids! Vote against the #ACHA or {3} kids are going to lose healthcare in {1}!',
-'. @{0} - Protect healthcare for {2} of your most vulnerable constituents. Stop the #ACHA! #SaveOurCare',
-'. @{0} support the {4} disabled and {5} elderly Medicaid patients in {1}: Stop the #ACHA. #SaveOurCare',
+'. @{0}, under the #AHCA, your constituents in {1} are at risk. {2} stand to lose health coverage under the new bill. Vote no!',
+'Hey @{0}, did you know that under the #AHCA {2} people in {1} will lose health care? #SaveOurCare', 
+'. @{0}: Protect American kids! Vote against the #AHCA or {3} kids are going to lose healthcare in {1}!',
+'. @{0} - Protect healthcare for {2} of your most vulnerable constituents. Stop the #AHCA! #SaveOurCare',
+'. @{0} support the {4} disabled and {5} elderly Medicaid patients in {1}: Stop the #AHCA. #SaveOurCare',
 'Hey @{0}, why do you think {3} kids in {1} should lose their healthcare? Stop the #AHCA. #SaveOurCare',
 '{2} people in {1} are going to lose their healthcare, @{0} can you tell them why? #SaveOurCare'
 ]
@@ -79,7 +79,7 @@ def GOPlz():
 if __name__ == '__main__':
 	while True:
 		GOPlz()
-		min_sleep = random.randrange(1,7)
+		min_sleep = random.randrange(1,3)
 		time.sleep(60*min_sleep)
 
 
